@@ -20,7 +20,7 @@ Currently I am doing research intern in Information Retrieval Group, Department 
 ## Selected Projects
 **In THUIR**
 - **BCI Search Engine**: A search engine based on brain computer interface.
-- **EEG Input Method Based on SSEVP**
+- **EEG Input Method Based on SSVEP**
 - **EEG Signal Acquisition System**: A stimulation system and a signal collection system. EEG signals were collected after stimulation.
 
 **In BUPT**
@@ -56,7 +56,7 @@ Currently I am doing research intern in Information Retrieval Group, Department 
 - Advised by Xuesong Chen, third year master student in THUIR group
 - Porjects:
     - **BCI Search Engine**: A search engine based on Search engine based on brain computer interaction.
-    - **EEG Input Method Based on SSEVP**
+    - **EEG Input Method Based on SSVEP**
     - **EEG Signal Acquisition System**: A stimulation system and a signal collection system. EEG signals were collected after stimulation. 
 
 
