@@ -3,26 +3,23 @@
 I am now an undergraduate student studying computer science at Beijing University of Posts and Telecommunications.
 Currently I am doing research intern in Information Retrieval Group, Department of Computer Science and Technology, THU.
 ## Education
-- [2012.9-2018.7]   The High School Affiliated to Renmin University of China
-- [2018.9-present]  Beijing University of Posts and Telecommunications
+#### [2012.9-2018.7]   The High School Affiliated to Renmin University of China
+#### [2018.9-present]  Beijing University of Posts and Telecommunications
+- **Overall GPA in BUPT:  3.83/4.0    92.19/100   Ranking:1%  (4/397)**
+- **CET4: 600**
+- **CET6: 585**
 
-**Overall GPA in BUPT: 3.83/4.0  92.19/100  Ranking 1% (4/397)**
-**CET4: 600**
-**CET6: 585**
 
-
-## Honors and Awards
+## Selected Honors and Awards
 - National English Competition for College Students
 - Interdisciplinary Contest in Modeling: Meritorious Winner
 - Scholarship of BUPT(2018-2019 & 2019-2020)
 - Merit Student of BUPT(2018-2019 & 2019-2020)
 
 
-
-
-## Projects
+## Selected Projects
 **In THUIR**
-- **BCI Search Engine**: A search engine based on Search engine based on brain computer interaction.
+- **BCI Search Engine**: A search engine based on brain computer interface.
 - **EEG Input Method Based on SSEVP**
 - **EEG Signal Acquisition System**: A stimulation system and a signal collection system. EEG signals were collected after stimulation.
 
@@ -30,12 +27,12 @@ Currently I am doing research intern in Information Retrieval Group, Department 
 - **LTE Network Interference Analysis system**: Analysis and visualization of LTE Network.
 - **Pascal to C Complier**: Yet Another Pascal to C Compiler. Linking to github: https://github.com/ZubinGou/pas2c
 - **BUPT-News**: Dynamic access to official news of BUPT and Realization of retrieval system. Linking to github: https://github.com/EricWang007/BUPT-News
-- ****
+- **Intel 8086 CPU Emulator**
 - **Doggy Chat**: An instant messaging web application
 
 
-## Research Experience
-
+## Selected Research Experience
+### Blockchain and Virtual Currency, BUPT
 - [2020.3-2021.3]
 - Advised by Prof. Haoyu Wang
 - Publications: 
@@ -47,14 +44,14 @@ Currently I am doing research intern in Information Retrieval Group, Department 
     - Understanding the Blockchain DApp Ecosystem Based on Graph Analysis
 
 
-### State Key Laboratory of Networking and Switching Technology
+### ICM contest, State Key Laboratory of Networking and Switching Technology
 - [2021.1-2021.2]
 - Advised by Prof. Xiang Cheng
 - Achievements
     - Understanding the Evolution of Music
 
 
-### Information Retrieval Group, Department of Computer Science and Technology
+### BCI and EEG Analysis, Information Retrieval Group, Department of Computer Science and Technology
 - [2021.2-present] 
 - Advised by Xuesong Chen, third year master student in THUIR group
 - Porjects:
@@ -62,3 +59,6 @@ Currently I am doing research intern in Information Retrieval Group, Department 
     - **EEG Input Method Based on SSEVP**
     - **EEG Signal Acquisition System**: A stimulation system and a signal collection system. EEG signals were collected after stimulation. 
 
+
+## Skills
+Matlab, Linux, Python, LaTex, C/C++ ......
