@@ -1,8 +1,7 @@
 # About me: Weihang Su
 
 I am now an undergraduate student studying computer science at Beijing University of Posts and Telecommunications.
-
-
+Currently I am doing research intern in Information Retrieval Group, Department of Computer Science and Technology, THU.
 ## Education
 - [2012.9-2018.7]   The High School Affiliated to Renmin University of China
 - [2018.9-present]  Beijing University of Posts and Telecommunications
@@ -13,6 +12,10 @@ I am now an undergraduate student studying computer science at Beijing Universit
 
 
 ## Honors and Awards
+- National English Competition for College Students
+- Interdisciplinary Contest in Modeling: Meritorious Winner
+- Scholarship of BUPT(2018-2019 & 2019-2020)
+- Merit Student of BUPT(2018-2019 & 2019-2020)
 
 
 
@@ -32,7 +35,7 @@ I am now an undergraduate student studying computer science at Beijing Universit
 
 
 ## Research Experience
-### 
+
 - [2020.3-2021.3]
 - Advised by Prof. Haoyu Wang
 - Publications: 
@@ -44,14 +47,14 @@ I am now an undergraduate student studying computer science at Beijing Universit
     - Understanding the Blockchain DApp Ecosystem Based on Graph Analysis
 
 
-###
--[2021.1-2021.2]
+### State Key Laboratory of Networking and Switching Technology
+- [2021.1-2021.2]
 - Advised by Prof. Xiang Cheng
 - Achievements
     - Understanding the Evolution of Music
 
 
-###
+### Information Retrieval Group, Department of Computer Science and Technology
 - [2021.2-present] 
 - Advised by Xuesong Chen, third year master student in THUIR group
 - Porjects:
