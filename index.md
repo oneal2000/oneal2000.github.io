@@ -20,6 +20,7 @@ Currently I am doing research intern in Information Retrieval Group, Department 
 ## Selected Projects
 **In THUIR**
 - **BCI Search Engine**: A search engine based on brain computer interface.
+- **Flicker**: SSVEP stimulation system implemented with Python OpenCV. 
 - **EEG Input Method Based on SSVEP**
 - **EEG Signal Acquisition System**: A stimulation system and a signal collection system. EEG signals were collected after stimulation.
 
@@ -35,12 +36,10 @@ Currently I am doing research intern in Information Retrieval Group, Department 
 ### Blockchain and Virtual Currency, BUPT
 - [2020.3-2021.3]
 - Advised by Prof. Haoyu Wang
-- Publications: 
+- Scientific research projects I participated in: 
     - Understanding the Impact of COVID-19 on Github Developers: A Preliminary Study
     - The Heaven of Scam Tokens: Characterizing Uniswap Decentralized Exchange
     - Understanding the Evolution of Blockchain Ecosystems: A Longitudinal Measurement Study of Bitcoin, Ethereum, and EOSIO
-
-- Other achievements:
     - Understanding the Blockchain DApp Ecosystem Based on Graph Analysis
 
 
@@ -51,7 +50,7 @@ Currently I am doing research intern in Information Retrieval Group, Department 
     - Understanding the Evolution of Music
 
 
-### BCI and EEG Analysis, Information Retrieval Group, Department of Computer Science and Technology
+### BCI and EEG Analysis, Information Retrieval Group, Department of Computer Science and Technology, THU
 - [2021.2-present] 
 - Advised by Xuesong Chen, third year master student in THUIR group
 - Porjects:
