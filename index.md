@@ -20,7 +20,8 @@ Currently I am doing research intern in Information Retrieval Group, Department 
 ## Selected Projects
 **In THUIR**
 - **BCI Search Engine**: A search engine based on brain computer interface.
-- **Flicker**: SSVEP stimulation system implemented with Python OpenCV. 
+- **Flicker**: SSVEP stimulation system implemented with Python OpenCV.
+- **Flicker v2.0**: SSVEP stimulation system implemented with Python psychopy.
 - **EEG Input Method Based on SSVEP**
 - **EEG Signal Acquisition System**: A stimulation system and a signal collection system. EEG signals were collected after stimulation.
 
@@ -57,6 +58,8 @@ Currently I am doing research intern in Information Retrieval Group, Department 
     - **BCI Search Engine**: A search engine based on Search engine based on brain computer interaction.
     - **EEG Input Method Based on SSVEP**
     - **EEG Signal Acquisition System**: A stimulation system and a signal collection system. EEG signals were collected after stimulation. 
+    - **Flicker**: SSVEP stimulation system implemented with Python OpenCV.
+    - **Flicker v2.0**: SSVEP stimulation system implemented with Python psychopy.
 
 
 ## Skills
