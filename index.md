@@ -55,7 +55,7 @@ Currently I am doing research intern in Information Retrieval Group, Department 
 - [2021.2-present] 
 - Advised by Xuesong Chen, third year master student in THUIR group
 - Porjects:
-    - **BCI Search Engine**: A search engine based on Search engine based on brain computer interaction.
+    - **BCI Search Engine**: A search engine based on brain computer interface.
     - **EEG Input Method Based on SSVEP**
     - **EEG Signal Acquisition System**: A stimulation system and a signal collection system. EEG signals were collected after stimulation. 
     - **Flicker**: SSVEP stimulation system implemented with Python OpenCV.
