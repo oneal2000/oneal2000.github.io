@@ -1,8 +1,8 @@
-# About me: Weihang Su
+# About me
 
 I am now an undergraduate student studying computer science at Beijing University of Posts and Telecommunications.
 Currently I am doing research intern in Information Retrieval Group, Department of Computer Science and Technology, THU.
-## Education
+# Education
 #### [2012.9-2018.7]   The High School Affiliated to Renmin University of China
 #### [2018.9-present]  Beijing University of Posts and Telecommunications
 - [**Overall GPA:  3.83/4.0      92.19/100     Ranking:1%  (4/397)**](https://github.com/oneal2000/oneal2000.github.io/raw/main/rank.pdf)
@@ -10,14 +10,14 @@ Currently I am doing research intern in Information Retrieval Group, Department 
 - **CET6: 585**
 
 
-## Selected Honors and Awards
+# Selected Honors and Awards
 - National English Competition for College Students
 - Interdisciplinary Contest in Modeling: Meritorious Winner
 - Scholarship of BUPT(2018-2019 & 2019-2020)
 - Merit Student of BUPT(2018-2019 & 2019-2020)
 
 
-## Selected Projects
+# Selected Projects
 **In THUIR**
 - **BCI Search Engine**: A search engine based on brain computer interface.
 - **Flicker**: SSVEP stimulation system implemented with Python OpenCV.
@@ -62,5 +62,5 @@ Currently I am doing research intern in Information Retrieval Group, Department 
     - **Flicker v2.0**: SSVEP stimulation system implemented with Python psychopy.
 
 
-## Skills
+# Skills
 Matlab, Linux, Python, LaTex, C/C++ ......
