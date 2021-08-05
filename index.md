@@ -19,6 +19,7 @@ Currently I am doing research intern in Information Retrieval Group, Department 
 
 # Selected Projects
 **In THUIR**
+- **ASS(Add SSVEP Stimulation) Web Server**： A web server that can add SSVEP stimulation on any webpage.
 - **BCI Search Engine**: A search engine based on brain computer interface.
 - **Flicker**: SSVEP stimulation system implemented with Python OpenCV.
 - **Flicker v2.0**: SSVEP stimulation system implemented with Python psychopy.
@@ -55,6 +56,7 @@ Currently I am doing research intern in Information Retrieval Group, Department 
 - [2021.2-present] 
 - Advised by Xuesong Chen, third year master student in THUIR group
 - Porjects:
+    - **ASS(Add SSVEP Stimulation) Web Server**： A web server that can add SSVEP stimulation on any webpage.
     - **BCI Search Engine**: A search engine based on brain computer interface.
     - **EEG Input Method Based on SSVEP**
     - **EEG Signal Acquisition System**: A stimulation system and a signal collection system. EEG signals were collected after stimulation. 
