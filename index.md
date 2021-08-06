@@ -5,8 +5,8 @@ Currently I am doing research intern in Information Retrieval Group, Department 
 # Education
 #### [2012.9-2018.7]   The High School Affiliated to Renmin University of China
 #### [2018.9-present]  Beijing University of Posts and Telecommunications
-- [**Overall GPA:  3.83/4.0      92.19/100     **](https://github.com/oneal2000/oneal2000.github.io/raw/main/rank.pdf)
-- **Ranking:1%    [4/397]**
+- **Overall GPA:  3.83/4.0      92.19/100**
+- **Ranking:1%    [4<sup>th</sup>/397]**
 - **CET4: 600**
 - **CET6: 585**
 
