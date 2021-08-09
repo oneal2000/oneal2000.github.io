@@ -66,4 +66,5 @@ Currently I am doing research intern in Information Retrieval Group, Department 
 
 
 # Skills
-Matlab, Linux, Python, LaTex, C/C++ ......
+Matlab, Linux, Python, LaTex, C/C++
+Flask, html, CSS, JavaScript
