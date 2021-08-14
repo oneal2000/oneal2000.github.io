@@ -62,7 +62,7 @@ Currently I am doing research intern in Information Retrieval Group, Department 
 
 ### BCI and EEG Analysis, Information Retrieval Group, Department of Computer Science and Technology, THU
 - [2021.2-present] 
-- Advised by Xuesong Chen, third year master student in THUIR group
+- Work with Xuesong Chen, third year master student in THUIR group
 - Porjects:
     - **ASS(Add SSVEP Stimulation) Web Server**： A web server that can add SSVEP stimulation on any webpage.
     - **BCI Search Engine**: A search engine based on brain computer interface.
