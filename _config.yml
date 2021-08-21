@@ -1,6 +1,42 @@
-theme: jekyll-theme-minimal
-title: Weihang Su
-description: An undergraduate student of BUPT
-Gemfile:gem "github-pages", group: :jekyll_plugins
-pic: oneal2000.github.io/pic.jpg
-<img src="oneal2000.github.io/pic.jpg" />
+# theme: jekyll-theme-minimal
+# title: Weihang Su
+# description: An undergraduate student of BUPT
+# Gemfile:gem "github-pages", group: :jekyll_plugins
+# logo: oneal2000.github.io/pic.jpg
+
+author:
+  name             : "Weihang Su"
+  avatar           : "pic.png"
+  bio              : "An undergraduate student of BUPT"
+  location         : "Beijing, China"
+  employer         :
+  pubmed           : 
+  googlescholar    : 
+  email            : oneal2000@126.com
+  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  uri              :
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           : "oneal2000"
+  google_plus      :
+  keybase          :
+  instagram        :
+  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  lastfm           :
+  linkedin         :
+  orcid            : 
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  steam            :
+  tumblr           :
+  twitter          : 
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :
+  wikipedia        :
