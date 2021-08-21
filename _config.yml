@@ -3,3 +3,4 @@ title: Weihang Su
 description: An undergraduate student of BUPT
 Gemfile:gem "github-pages", group: :jekyll_plugins
 pic: oneal2000.github.io/pic.jpg
+<img src="oneal2000.github.io/pic.jpg" />
