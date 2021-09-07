@@ -54,7 +54,7 @@ L Wang, R Li, J Zhu, G Bai, **W Su**, H Wang
 
 
 ## Selected Research Experience
-### Blockchain and Virtual Currency, BUPT
+### Blockchain and Virtual Currency, BUPT & PKU
 - [2020.3-2021.3]
 - Advised by Prof. Haoyu Wang
 - Scientific research projects I participated in: 
