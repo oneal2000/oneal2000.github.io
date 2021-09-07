@@ -18,10 +18,10 @@ Currently I am doing research intern in Information Retrieval Group, Department 
 - Merit Student of BUPT(2018-2019 & 2019-2020)
 
 # Selected Publications
-Demystifying Scam Tokens on Uniswap Decentralized Exchange 
+**Demystifying Scam Tokens on Uniswap Decentralized Exchange**
 arXiv preprint arXiv:2109.00229, 2021. P Xia, B Gao, **W Su**, Z Yu, X Luo, C Zhang, X Xiao, G Xu
 
-Understanding the Impact of COVID-19 on Github Developers: A Preliminary Study 
+**Understanding the Impact of COVID-19 on Github Developers: A Preliminary Study**
 SEKE2021 L Wang, R Li, J Zhu, G Bai, **W Su**, H Wang
 
 
