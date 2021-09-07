@@ -18,6 +18,9 @@ Currently I am doing research intern in Information Retrieval Group, Department 
 - Merit Student of BUPT(2018-2019 & 2019-2020)
 
 # Selected Publications
+**Understanding the Evolution of Blockchain Ecosystems: A Longitudinal Measurement Study of Bitcoin, Ethereum, and EOSIO**
+N. He, **W. Su**, Z. Yu, X. Liu, F. Zhao, H. Wang, X. Luo, G. Tyson, L. Wu, Y. Guo
+
 **Demystifying Scam Tokens on Uniswap Decentralized Exchange**
 arXiv preprint arXiv:2109.00229, 2021. P Xia, B Gao, **W Su**, Z Yu, X Luo, C Zhang, X Xiao, G Xu
 
