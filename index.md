@@ -19,9 +19,9 @@ Currently I am doing research intern in Information Retrieval Group, Department 
 
 # Selected Publications
 - Demystifying Scam Tokens on Uniswap Decentralized Exchange 
-arXiv preprint arXiv:2109.00229, 2021. Xia P, Gao B, **Su W**, et al.
-- Understanding the Impact of COVID-19 on Github Developers: A Preliminary Study SEKE2021
-Liu Wang, Ruiqing Li, Jiaxin Zhu, Guangdong Bai, **Weihang Su**, Haoyu Wang
+arXiv preprint arXiv:2109.00229, 2021. P Xia, B Gao, **W Su**, Z Yu, X Luo, C Zhang, X Xiao, G Xu
+- Understanding the Impact of COVID-19 on Github Developers: A Preliminary Study 
+SEKE2021 L Wang, R Li, J Zhu, G Bai, **W Su**, H Wang
 
 
 
