@@ -18,7 +18,7 @@ Currently I am doing research intern in Information Retrieval Group, Department 
 - Merit Student of BUPT(2018-2019 & 2019-2020)
 
 # Selected Publications
-[Link to Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=xEJc8cgAAAAJ)
+[Link to Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=xEJc8cgAAAAJ)<br/>
 **Understanding the Evolution of Blockchain Ecosystems: A Longitudinal Measurement Study of Bitcoin, Ethereum, and EOSIO**<br/>
 N. He, **W. Su**, Z. Yu, X. Liu, F. Zhao, H. Wang, X. Luo, G. Tyson, L. Wu, Y. Guo
 
