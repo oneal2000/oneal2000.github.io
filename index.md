@@ -20,7 +20,7 @@ Currently I am doing research intern in Information Retrieval Group, Department 
 # Selected Publications
 [Link to Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=xEJc8cgAAAAJ)<br/>
 **Web Search via an Efficient and Effective Brain-Machine Interface**<br/>
-Xuesong Chen, Ziyi Ye, Xiaohui Xie, Yiqun Liu, **Weihang Su**, Shuqi Zhu, Min Zhang and Shaoping Ma<br/>
+X Chen, Z Ye, X Xie, Y Liu, **W Su**, S Zhu, M Zhang and S Ma<br/>
 **Submitted to WSDM 2022**	
 
 **Understanding the Evolution of Blockchain Ecosystems: A Longitudinal Measurement Study of Bitcoin, Ethereum, and EOSIO**<br/>
