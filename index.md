@@ -20,16 +20,20 @@ Currently I am doing research intern in Information Retrieval Group, Department 
 # Selected Publications
 [Link to Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=xEJc8cgAAAAJ)<br/>
 **Web Search via an Efficient and Effective Brain-Machine Interface**<br/>
-Xuesong Chen, Ziyi Ye, Xiaohui Xie, Yiqun Liu, **Weihang Su**, Shuqi Zhu, Min Zhang and Shaoping Ma	
+Xuesong Chen, Ziyi Ye, Xiaohui Xie, Yiqun Liu, **Weihang Su**, Shuqi Zhu, Min Zhang and Shaoping Ma
+**Submitted to WSDM 2022**	
 
 **Understanding the Evolution of Blockchain Ecosystems: A Longitudinal Measurement Study of Bitcoin, Ethereum, and EOSIO**<br/>
 N. He, **W. Su**, Z. Yu, X. Liu, F. Zhao, H. Wang, X. Luo, G. Tyson, L. Wu, Y. Guo
+**Submitted to WWW 2022**
 
 **Demystifying Scam Tokens on Uniswap Decentralized Exchange**<br/>
-P Xia, B Gao, **W Su**, Z Yu, X Luo, C Zhang, X Xiao, G Xu
+P Xia, B Gao, **W Su**, Z Yu, X Luo, C Zhang, X Xiao, G Xu<br/>
+**SIGmetrics 2022**
 
 **Understanding the Impact of COVID-19 on Github Developers: A Preliminary Study**<br/>
 L Wang, R Li, J Zhu, G Bai, **W Su**, H Wang
+**SEKE 2021**
 
 
 
