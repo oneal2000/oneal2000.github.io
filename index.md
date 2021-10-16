@@ -14,8 +14,11 @@ Currently I am doing research intern in Information Retrieval Group, Department 
 # Selected Honors and Awards
 - National English Competition for College Students
 - Interdisciplinary Contest in Modeling: Meritorious Winner
-- Scholarship of BUPT(2018-2019 & 2019-2020 & 2020-2021)
-- Merit Student of BUPT(2018-2019 & 2019-2020 & 2020-2021)
+- Scholarship of BUPT(2018-2019 & 2019-2020 & 2020-2021)<br/>
+  ( Three consecutive years )
+- Merit Student of BUPT(2018-2019 & 2019-2020 & 2020-2021)<br/>
+  ( Three consecutive years )
+
 
 # Selected Publications
 [Link to Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=xEJc8cgAAAAJ)<br/>
