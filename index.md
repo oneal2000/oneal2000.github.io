@@ -76,15 +76,15 @@ L Wang, R Li, J Zhu, G Bai, **W Su**, H Wang<br/>
 
 
 ### ICM contest, State Key Laboratory of Networking and Switching Technology
-- [2021.1-2021.2]
+- [2021.1-2021.4]
 - Advised by Prof. Xiang Cheng
 - Achievements
     - Understanding the Evolution of Music
 
 
-### BCI and EEG Analysis, Information Retrieval Group, Department of Computer Science and Technology, THU
-- [2021.2-present] 
-- Work with Xuesong Chen, third year master student in THUIR group
+### Brain Computer Interface for IR, Information Retrieval Group, Department of Computer Science and Technology, THU
+- [2021.2-2021.10] 
+- Advised by Xuesong Chen, third year master student in THUIR group
 - Porjects:
     - **ASS(Add SSVEP Stimulation) Web Server**： A web server that can add SSVEP stimulation on any webpage.
     - **BCI Search Engine**: A search engine based on brain computer interface.
