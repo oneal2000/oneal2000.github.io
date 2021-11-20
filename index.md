@@ -24,7 +24,7 @@ Currently I am doing research intern in Information Retrieval Group, Department 
 [Link to Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=xEJc8cgAAAAJ)<br/>
 **Web Search via an Efficient and Effective Brain-Machine Interface**<br/>
 X Chen, Z Ye, X Xie, Y Liu, **W Su**, S Zhu, M Zhang and S Ma<br/>
-**Submitted to WSDM 2022**	
+**WSDM 2022**	
 
 **Understanding the Evolution of Blockchain Ecosystems: A Longitudinal Measurement Study of Bitcoin, Ethereum, and EOSIO**<br/>
 N. He, **W. Su**, Z. Yu, X. Liu, F. Zhao, H. Wang, X. Luo, G. Tyson, L. Wu, Y. Guo<br/>
@@ -97,6 +97,6 @@ L Wang, R Li, J Zhu, G Bai, **W Su**, H Wang<br/>
 # Skills
 Matlab, Linux, Python, LaTex, C/C++
 Flask, html, CSS, JavaScript
-
+ 
 # Vistors of this Site
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=GSlcQ6thoCo-X_uF8cQHnLjSZ5jzHTVAmn7ERchT880&cl=ffffff&w=a"></script>
