@@ -1,7 +1,10 @@
 # About me
 
 I am now an undergraduate student studying computer science at Beijing University of Posts and Telecommunications.
-Currently I am doing research intern in Information Retrieval Group, Department of Computer Science and Technology, THU.
+Currently I am doing research intern in Information Retrieval Group, Department of Computer Science and Technology, THU.<br/>
+
+My current research interests are in Brain Computer Interface(BCI) and Pre-training for Informationn Retrieval(IR).
+
 # Education
 #### [2012.9-2018.7]   The High School Affiliated to Renmin University of China
 #### [2018.9-present]  Beijing University of Posts and Telecommunications
