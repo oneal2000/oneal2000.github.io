@@ -28,7 +28,7 @@ My research lies in Information Retrieval, Web Search, and Brain Machine Interfa
 
 
 
-# Selected Publications
+# Selected Papers
 [Link to Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=xEJc8cgAAAAJ)<br/>
 **Wikiformer: Pre-training with Structured Information of Wikipedia for Zero-shot Retrieval**<br/>
 **Weihang Su**, Qingyao Ai, Xiangsheng Li, Jia Chen, Yiqun Liu, Min Zhang, Shaoping Ma<br/>
