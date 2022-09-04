@@ -10,7 +10,8 @@ My research lies in Information Retrieval, Web Search, and Brain Machine Interfa
 - **Overall GPA:  [3.83/4.0]      [92.19/100]**
 - **Ranking:1%    [4<sup>th</sup>/397]**
 - **CET4: 600**
-- **CET6: 585**
+- **CET6: 585**<br/>
+
 #### [2022.6-now]      Tsinghua University
 
 # Selected Honors and Awards
