@@ -3,6 +3,7 @@ title: Weihang Su
 description: Department of Computer Science and Technology, Tsinghua University
 Gemfile:gem "github-pages", group: :jekyll_plugins
 logo: "https://github.com/oneal2000/oneal2000.github.io/raw/main/pic.jpg"
+googlescholar    : "https://scholar.google.com/citations?hl=en&user=xEJc8cgAAAAJ"
 
 # locale                   : "en-US"
 # title                    : "Weihang Su"
