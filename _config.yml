@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 title: Weihang Su
-description: An undergraduate student of BUPT
+description: A first year PhD student at Department of Computer Science and Technology, Tsinghua University
 Gemfile:gem "github-pages", group: :jekyll_plugins
-logo: "oneal2000.github.io/pic.jpg"
+logo: "https://github.com/oneal2000/oneal2000.github.io/raw/main/pic.jpg"
 
