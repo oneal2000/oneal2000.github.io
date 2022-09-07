@@ -60,33 +60,33 @@ L Wang, R Li, J Zhu, G Bai, **W Su**, H Wang<br/>
 
 ## Selected Research Experience
 
-### Pre-trained Language Model for Legal Case Retrieval, Information Retrieval Group, Department of Computer Science and Technology, THU
+### Pre-trained Language Model for Legal Case Retrieval, THUIR
 - [2022.7-now] 
 - Advised by Yixiao Ma, Wu Yueyue.
 - My model Caseformer 1.0 achieves the best performance on LeCaRD dataset. I'm still working on designing better pre-train methods.
 
-### Language and Intelligence Challenge (LIC) Contest, Information Retrieval Group, Department of Computer Science and Technology, THU
+### Language and Intelligence Challenge (LIC) Contest, THUIR
 - [2022.5-2022.7]
 - Worked with Haitao Li. Advised by Jingtao Zhan and Yan Fang.
-- We won the third prize in the language and intelligence challenge and won third place out of 916 teams in the A round leader-board.
+- **We won the third prize in the language and intelligence challenge and won third place out of 916 teams in the A round leader-board.**
 - Paper
     -  **Passage Retrieval System Based on Dense and Sparse Features** (co-author)
 
 
-### Pre-trained Language Model for Information Retireval, Information Retrieval Group, Department of Computer Science and Technology, THU
+### Pre-trained Language Model for Information Retireval, THUIR
 - [2022.1-2022.5]
 - Advised by Xiangsheng Li and Jia Chen.
 - Paper
     - **Wikiformer: Pre-training with Structured Information of Wikipedia for Zero-shot Retrieval** (first author)
 
-### Session Search, Information Retrieval Group, Department of Computer Science and Technology, THU
+### Session Search, THUIR
 - [2021.10-2022.1]
 - Advised by Xiangsheng Li and Jia Chen.
-- Our team won the first place in the first round evaluation and the second place in the second round of evaluation of the NTCIR-16 Session Search task. The leaderboard is available on http://www.thuir.cn:1515/index.
+- **Our team won the first place in the first round evaluation** and the second place in the second round of evaluation of the **NTCIR-16 Session Search task**. The leaderboard is available on http://www.thuir.cn:1515/index.
 - Paper
     - **THUIR2 at NTCIR-16 Session Search (SS) Task**(first author)
 
-### Brain Computer Interface for IR, Information Retrieval Group, Department of Computer Science and Technology, THU
+### Brain Computer Interface for IR, THUIR
 - [2021.2-2021.10] 
 - Advised by Xuesong Chen, third year master student in THUIR group
 - Porjects:
