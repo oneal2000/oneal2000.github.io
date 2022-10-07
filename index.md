@@ -30,8 +30,8 @@ My research lies in Information Retrieval, Web Search, and Brain Machine Interfa
 
 # Selected Papers
 [Link to Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=xEJc8cgAAAAJ)<br/>
-**Wikiformer: Pre-training with Structured Information of Wikipedia for Zero-shot Retrieval**<br/>
-**Weihang Su**, Qingyao Ai, Xiangsheng Li, Jia Chen, Yiqun Liu, Min Zhang, Shaoping Ma<br/>
+<!-- **Wikiformer: Pre-training with Structured Information of Wikipedia for Zero-shot Retrieval**<br/>
+**Weihang Su**, Qingyao Ai, Xiangsheng Li, Jia Chen, Yiqun Liu, Min Zhang, Shaoping Ma<br/> -->
 
 **Passage Retrieval System Based on Dense and Sparse Features**<br/>
 Haitao Li, **Weihang Su** (same contribution)<br/>
@@ -74,10 +74,10 @@ L Wang, R Li, J Zhu, G Bai, **W Su**, H Wang<br/>
 
 
 ### Pre-trained Language Model for Information Retireval, THUIR
-- [2022.1-2022.5]
+<!-- - [2022.1-2022.5]
 - Advised by Xiangsheng Li and Jia Chen.
 - Paper
-    - **Wikiformer: Pre-training with Structured Information of Wikipedia for Zero-shot Retrieval** (first author)
+    - **Wikiformer: Pre-training with Structured Information of Wikipedia for Zero-shot Retrieval** (first author) -->
 
 ### Session Search, THUIR
 - [2021.10-2022.1]
@@ -120,7 +120,7 @@ L Wang, R Li, J Zhu, G Bai, **W Su**, H Wang<br/>
 **In THUIR**
 - **Passage Retrieval System Based on Dense and Sparse Features**: A passage search system that combines sparse features and dense features in both retrieval and reranking stages that won the third place in the language and intelligence challenge and won third place out of 916 teams in the A round leader-board.
 - **Caseformer 1.0**: A pre-trained model tailored for legal case retireval.
-- **Wikiformer: Pre-training with Structured Information of Wikipedia for Zero-shot Retrieval**: A pre-trained model tailored for Information Retrieval based on the structured information of Wikipedia.My model achieveds SOTA performance on multiple IR benchmarks in both zero-shot and few-shot settings.
+<!-- - **Wikiformer: Pre-training with Structured Information of Wikipedia for Zero-shot Retrieval**: A pre-trained model tailored for Information Retrieval based on the structured information of Wikipedia.My model achieveds SOTA performance on multiple IR benchmarks in both zero-shot and few-shot settings. -->
 - **ASS(Add SSVEP Stimulation) Web Server**： A web server that can add SSVEP stimulation on any webpage.
 - **BCI Search Engine**: A search engine based on brain computer interface.
 - **Flicker**: SSVEP stimulation system implemented with Python OpenCV.
