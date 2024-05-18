@@ -27,15 +27,15 @@ My research lies in Information Retrieval, Web Search, and Brain Machine Interfa
 
 - **Caseformer: Pre-training for Legal Case Retrieval** <br/> ***Weihang Su**, Qingyao Ai, Yueyue Wu, Yixiao Ma, Haitao Li, Yiqun Liu*
 
-  <br/>[Paper](https://arxiv.org/abs/2311.00333) [Code](https://github.com/oneal2000/Caseformer)
+  <br/>(Long Paper) [Paper](https://arxiv.org/abs/2311.00333) [Code](https://github.com/oneal2000/Caseformer)
 
    
 
-- **Mitigating Entity-Level Hallucinations in Large Language Models**<br/>***Weihang Su**, Yichen Tang, Qingyao Ai, Zhijing Wu, Changyue Wang, Yiqun Liu*<br/>[Code](https://github.com/dynamicDRAD/DRAD/tree/tyc)
+- **Mitigating Entity-Level Hallucinations in Large Language Models**<br/>***Weihang Su**, Yichen Tang, Qingyao Ai, Zhijing Wu, Changyue Wang, Yiqun Liu*<br/>(Long Paper) [Code](https://github.com/dynamicDRAD/DRAD/tree/tyc)
 
   
 
-- **STARD: A Statute Retrieval Dataset for Non-Expert Queries**<br/>***Weihang Su**, Yiran Hu, Anzhe Xie, Qingyao Ai, Zibing Que, Yun Liu, Weixing Shen, Yiqun LIU*<br/>[Code](https://github.com/oneal2000/STARD/tree/main)
+- **STARD: A Statute Retrieval Dataset for Non-Expert Queries**<br/>***Weihang Su**, Yiran Hu, Anzhe Xie, Qingyao Ai, Zibing Que, Yun Liu, Weixing Shen, Yiqun LIU*<br/>(Long Paper) [Code](https://github.com/oneal2000/STARD/tree/main)
 
  
 
