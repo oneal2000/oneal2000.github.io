@@ -24,15 +24,15 @@ My research lies in Information Retrieval, Web Search, and Brain Machine Interfa
 
 ## **Paper Under Submission**
 
-- **Caseformer: Pre-training for Legal Case Retrieval** <br/> **Weihang Su**, Qingyao Ai, Yueyue Wu, Yixiao Ma, Haitao Li, Yiqun Liu
+- **Caseformer: Pre-training for Legal Case Retrieval** <br/> ***Weihang Su**, Qingyao Ai, Yueyue Wu, Yixiao Ma, Haitao Li, Yiqun Liu*
 
    
 
-- **Mitigating Entity-Level Hallucinations in Large Language Models**<br/>**Weihang Su**, Yichen Tang, Qingyao Ai, Zhijing Wu, Changyue Wang, Yiqun Liu. 
+- **Mitigating Entity-Level Hallucinations in Large Language Models**<br/>***Weihang Su**, Yichen Tang, Qingyao Ai, Zhijing Wu, Changyue Wang, Yiqun Liu*
 
   
 
-- **STARD: A Statute Retrieval Dataset for Non-Expert Queries**<br/>**Weihang Su**, Yiran Hu, Anzhe Xie, Qingyao Ai, Zibing Que, Yun Liu, Weixing Shen, Yiqun LIU
+- **STARD: A Statute Retrieval Dataset for Non-Expert Queries**<br/>***Weihang Su**, Yiran Hu, Anzhe Xie, Qingyao Ai, Zibing Que, Yun Liu, Weixing Shen, Yiqun LIU*
 
  
 
@@ -40,7 +40,7 @@ My research lies in Information Retrieval, Web Search, and Brain Machine Interfa
 
 ## **Year 2024**
 
-- **DRAGIN: Dynamic Retrieval Augmented Generation based on the Real-time Information Needs of Large Language Models**<br/>**Weihang Su**, Yichen Tang, Qingyao Ai, Zhijing Wu, Yiqun Liu. <br/>Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics. Long Paper. **(ACL 2024 Main) (Long Paper, CCF-A, THU-A)**
+- **DRAGIN: Dynamic Retrieval Augmented Generation based on the Real-time Information Needs of Large Language Models**<br/>***Weihang Su**, Yichen Tang, Qingyao Ai, Zhijing Wu, Yiqun Liu*. <br/>Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics. Long Paper. **(ACL 2024 Main) (Long Paper, CCF-A, THU-A)**
 
  
 
