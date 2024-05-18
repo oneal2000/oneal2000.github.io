@@ -6,7 +6,7 @@ My research lies in Information Retrieval, Web Search, and Brain Machine Interfa
 
 
 
-# Selected Honors and Awards
+# Selected Awards
 - Winner of the Language and Intelligence Challenge (LIC) Contest (4 winners in the world. Ranked 0.3% among all teams). 
 
 - The first place in the first round of evaluation and the second place in the second round of evaluation of the NTCIR-16 Session Search task.
@@ -14,6 +14,8 @@ My research lies in Information Retrieval, Web Search, and Brain Machine Interfa
 - Beijing Outstanding Undergraduate 
 
   
+
+
 
 
 
@@ -25,17 +27,15 @@ My research lies in Information Retrieval, Web Search, and Brain Machine Interfa
 
 ## **Paper Under Submission**
 
-- **Caseformer: Pre-training for Legal Case Retrieval** <br/> ***Weihang Su**, Qingyao Ai, Yueyue Wu, Yixiao Ma, Haitao Li, Yiqun Liu*
-
-  <br/>(Long Paper) [Paper](https://arxiv.org/abs/2311.00333) [Code](https://github.com/oneal2000/Caseformer)
+- **Caseformer: Pre-training for Legal Case Retrieval** <br/> **Weihang Su**, Qingyao Ai, Yueyue Wu, Yixiao Ma, Haitao Li, Yiqun Liu<br/>(Long Paper) [Paper](https://arxiv.org/abs/2311.00333) [Code](https://github.com/oneal2000/Caseformer)
 
    
 
-- **Mitigating Entity-Level Hallucinations in Large Language Models**<br/>***Weihang Su**, Yichen Tang, Qingyao Ai, Zhijing Wu, Changyue Wang, Yiqun Liu*<br/>(Long Paper) [Code](https://github.com/dynamicDRAD/DRAD/tree/tyc)
+- **Mitigating Entity-Level Hallucinations in Large Language Models**<br/>**Weihang Su**, Yichen Tang, Qingyao Ai, Zhijing Wu, Changyue Wang, Yiqun Liu<br/>(Long Paper) [Code](https://github.com/dynamicDRAD/DRAD/tree/tyc)
 
   
 
-- **STARD: A Statute Retrieval Dataset for Non-Expert Queries**<br/>***Weihang Su**, Yiran Hu, Anzhe Xie, Qingyao Ai, Zibing Que, Yun Liu, Weixing Shen, Yiqun LIU*<br/>(Long Paper) [Code](https://github.com/oneal2000/STARD/tree/main)
+- **STARD: A Statute Retrieval Dataset for Non-Expert Queries**<br/>**Weihang Su**, Yiran Hu, Anzhe Xie, Qingyao Ai, Zibing Que, Yun Liu, Weixing Shen, Yiqun LIU<br/>(Long Paper) [Code](https://github.com/oneal2000/STARD/tree/main)
 
  
 
@@ -43,7 +43,7 @@ My research lies in Information Retrieval, Web Search, and Brain Machine Interfa
 
 ## **Year 2024**
 
-- **DRAGIN: Dynamic Retrieval Augmented Generation based on the Real-time Information Needs of Large Language Models**<br/>**Weihang Su**, Yichen Tang, Qingyao Ai, Zhijing Wu, Yiqun Liu. <br/>Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics. <br/> **ACL 2024 Main (Long Paper, CCF-A, THU-A)** <br/>[Paper](https://arxiv.org/abs/2403.10081) [Code](https://github.com/oneal2000/DRAGIN/tree/main)
+- **DRAGIN: Dynamic Retrieval Augmented Generation based on the Real-time Information Needs of Large Language Models**<br/>**Weihang Su**, Yichen Tang, Qingyao Ai, Zhijing Wu, Yiqun Liu. <br/>Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics. <br/> **ACL 2024 Main (Long Paper, CCF-A, THU-A)** <br/>[[Paper]](https://arxiv.org/abs/2403.10081) [Code](https://github.com/oneal2000/DRAGIN/tree/main)
 
  
 
