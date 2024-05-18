@@ -3,14 +3,14 @@
 My name is Weihang Su (苏炜航, in Chinese). I am now a second year PhD student at Department of Computer Science and Technology, Tsinghua University. My supervisor is Prof. Yiqun Liu.
 My research lies in Information Retrieval, Web Search, and Brain Machine Interface (BMI). I currently focus on Pre-trained Language Models for IR.
 
-#### 
+
 
 # Selected Honors and Awards
 - Winner of the Language and Intelligence Challenge (LIC) Contest (4 winners in the world. Ranked 0.3% among all teams). 
 
-- The first place in the first round evaluation and the second place in the second round of evaluation of the NTCIR-16 Session Search task.
+- The first place in the first round of evaluation and the second place in the second round of evaluation of the NTCIR-16 Session Search task.
 
-- Beijing Outstanding Undergraduate (北京市优秀毕业生)
+- Beijing Outstanding Undergraduate 
 
   
 
@@ -23,21 +23,21 @@ My research lies in Information Retrieval, Web Search, and Brain Machine Interfa
 
 ## **Paper Under Submission**
 
-Caseformer: Pre-training for Legal Case Retrieval
+- Caseformer: Pre-training for Legal Case Retrieval
 
-**Weihang Su**, Qingyao Ai, Yueyue Wu, Yixiao Ma, Haitao Li, Yiqun Liu
+  **Weihang Su**, Qingyao Ai, Yueyue Wu, Yixiao Ma, Haitao Li, Yiqun Liu
 
- 
+   
 
-Mitigating Entity-Level Hallucinations in Large Language Models
+- Mitigating Entity-Level Hallucinations in Large Language Models
 
-**Weihang Su**, Yichen Tang, Qingyao Ai, Zhijing Wu, Changyue Wang, Yiqun Liu. 
+  **Weihang Su**, Yichen Tang, Qingyao Ai, Zhijing Wu, Changyue Wang, Yiqun Liu. 
 
- 
+  
 
-STARD: A Statute Retrieval Dataset for Non-Expert Queries
+- STARD: A Statute Retrieval Dataset for Non-Expert Queries
 
-**Weihang Su**, Yiran Hu, Anzhe Xie, Qingyao Ai, Zibing Que, Yun Liu, Weixing Shen, Yiqun LIU
+  **Weihang Su**, Yiran Hu, Anzhe Xie, Qingyao Ai, Zibing Que, Yun Liu, Weixing Shen, Yiqun LIU
 
  
 
