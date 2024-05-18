@@ -23,9 +23,7 @@ My research lies in Information Retrieval, Web Search, and Brain Machine Interfa
 
 ## **Paper Under Submission**
 
-- Caseformer: Pre-training for Legal Case Retrieval
-
-  **Weihang Su**, Qingyao Ai, Yueyue Wu, Yixiao Ma, Haitao Li, Yiqun Liu
+- Caseformer: Pre-training for Legal Case Retrieval <\br> **Weihang Su**, Qingyao Ai, Yueyue Wu, Yixiao Ma, Haitao Li, Yiqun Liu
 
    
 
