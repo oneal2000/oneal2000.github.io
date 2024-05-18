@@ -40,11 +40,11 @@ My research lies in Information Retrieval, Web Search, and Brain Machine Interfa
 
 ## **Year 2024**
 
-- **DRAGIN: Dynamic Retrieval Augmented Generation based on the Real-time Information Needs of Large Language Models**<br/>***Weihang Su**, Yichen Tang, Qingyao Ai, Zhijing Wu, Yiqun Liu*. <br/>Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics. Long Paper. **(ACL 2024 Main) (Long Paper, CCF-A, THU-A)**
+- **DRAGIN: Dynamic Retrieval Augmented Generation based on the Real-time Information Needs of Large Language Models**<br/>***Weihang Su**, Yichen Tang, Qingyao Ai, Zhijing Wu, Yiqun Liu*. <br/>Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics. <br/> **(ACL 2024 Main) (Long Paper, CCF-A, THU-A)**
 
  
 
-- **Unsupervised real-time hallucination detection based on the internal states of large language models**<br/>**Weihang Su**, Changyue Wang, Qingyao Ai, Yiran Hu, Zhijing Wu, Yujia Zhou, Yiqun Liu. <br/>Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics. Long Paper. <br/>**(ACL 2024 Findings) (Long Paper, CCF-A, THU-A)**
+- **Unsupervised real-time hallucination detection based on the internal states of large language models**<br/>***Weihang Su**, Changyue Wang, Qingyao Ai, Yiran Hu, Zhijing Wu, Yujia Zhou, Yiqun Liu*. <br/>Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics. <br/>**(ACL 2024 Findings) (Long Paper, CCF-A, THU-A)**
 
  
 
