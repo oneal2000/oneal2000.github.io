@@ -2,7 +2,7 @@ theme: jekyll-theme-minimal
 title: Weihang Su
 description: Department of Computer Science and Technology, Tsinghua University
 Gemfile:gem "github-pages", group: :jekyll_plugins
-logo: "https://github.com/oneal2000/oneal2000.github.io/raw/main/pic.jpg"
+logo: "https://github.com/oneal2000/oneal2000.github.io/raw/main/pic2.jpg"
 googlescholar    : "https://scholar.google.com/citations?hl=en&user=xEJc8cgAAAAJ"
 
 # locale                   : "en-US"
@@ -172,20 +172,15 @@ googlescholar    : "https://scholar.google.com/citations?hl=en&user=xEJc8cgAAAAJ
 #   enable_coderay: false
 
 
-# # Collections
-# collections:
-#   teaching:
-#     output: true
-#     permalink: /:collection/:path/
-#   publications:
-#     output: true
-#     permalink: /:collection/:path/
-#   portfolio:
-#     output: true
-#     permalink: /:collection/:path/
-#   talks:
-#     output: true
-#     permalink: /:collection/:path/
+# Collections
+collections:
+  publications:
+    output: true
+    permalink: publications.md
+  news:
+    output: true
+    permalink: news.md
+
 
 
 # # Defaults
