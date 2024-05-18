@@ -1,20 +1,12 @@
 # About me
 
-My name is Weihang Su (苏炜航, in Chinese). I am now a first year PhD student at Department of Computer Science and Technology, Tsinghua University. My supervisor is Prof. Yiqun Liu.
+My name is Weihang Su (苏炜航, in Chinese). I am now a second year PhD student at Department of Computer Science and Technology, Tsinghua University. My supervisor is Prof. Yiqun Liu.
 My research lies in Information Retrieval, Web Search, and Brain Machine Interface (BMI). I currently focus on Pre-trained Language Models for IR.
 
-
-# Education
-#### [2012.9-2018.7]   The High School Affiliated to Renmin University of China
-#### [2018.9-2022.6]   Beijing University of Posts and Telecommunications
-- **Overall GPA:  [3.83/4.0]      [92.19/100]**
-- **Ranking:1%    [4<sup>th</sup>/397]**
-- **CET4: 600**
-- **CET6: 585**<br/>
-
-#### [2022.6-now]      Tsinghua University
+#### 
 
 # Selected Honors and Awards
+- 
 - Winner of the Language and Intelligence Challenge (LIC) Contest (4 winners in the world. Ranked 0.3% among all teams). 
 - The first place in the first round evaluation and the second place in the second round of evaluation of the NTCIR-16 Session Search task.
 - Beijing Outstanding Undergraduate (北京市优秀毕业生)
@@ -116,6 +108,21 @@ L Wang, R Li, J Zhu, G Bai, **W Su**, H Wang<br/>
 
 
 
+# Education
+
+#### [2012.9-2018.7]   The High School Affiliated to Renmin University of China
+
+#### [2018.9-2022.6]   Beijing University of Posts and Telecommunications
+
+- **Overall GPA:  [3.83/4.0]      [92.19/100]**
+- **Ranking:1%    [4<sup>th</sup>/397]**
+- **CET4: 600**
+- **CET6: 585**<br/>
+
+#### [2022.6-now]      Tsinghua University
+
+
+
 # Selected Projects
 **In THUIR**
 - **Passage Retrieval System Based on Dense and Sparse Features**: A passage search system that combines sparse features and dense features in both retrieval and reranking stages that won the third place in the language and intelligence challenge and won third place out of 916 teams in the A round leader-board.
@@ -151,6 +158,6 @@ Deep Learning Frameworks
 Pytorch, Huggingface
 Matlab, Linux, Python, LaTex, C/C++
 Flask, html, CSS, JavaScript
- 
+
 # Vistors of this Site
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=GSlcQ6thoCo-X_uF8cQHnLjSZ5jzHTVAmn7ERchT880&cl=ffffff&w=a"></script>
