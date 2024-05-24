@@ -5,7 +5,7 @@ Welcome to my homepage! I am Weihang Su (苏炜航), a second-year PhD student a
 My research focuses on leveraging AI technology to better meet user's information needs, specifically in the following areas:
 
 - Retrieval Augmented Generation (RAG)
-- Detecting and Mitigating LLM's Hallucinations
+- Evaluating LLMs in Complex IR Tasks
 - AI for Legal Applications
 
 I am also passionate about mentoring undergraduate students in research. I've collaborated with undergraduate students like Changyue Wang, Yichen Tang, and Anzhe Xie, co-authoring high-quality papers at top-tier conferences such as ACL. If you are an undergraduate interested in my research areas and aiming to publish high-quality papers, you can apply for an internship with the THUIR group through official channels or contact me directly to embark on meaningful research together!
