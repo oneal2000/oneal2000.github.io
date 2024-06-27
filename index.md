@@ -41,7 +41,7 @@ I am also passionate about mentoring undergraduate students in research. I've co
 
   
 
-- **STARD: A Statute Retrieval Dataset for Non-Expert Queries**<br/>**Weihang Su**, Yiran Hu, Anzhe Xie, Qingyao Ai, Zibing Que, Yun Liu, Weixing Shen, Yiqun LIU<br/>(Long Paper) [Paper](https://arxiv.org/abs/2406.15313) [Code](https://github.com/oneal2000/STARD/tree/main)
+- **STARD: A Chinese Statute Retrieval Dataset with Real Queries Issued by Non-professionals**<br/>**Weihang Su**, Yiran Hu, Anzhe Xie, Qingyao Ai, Zibing Que, Yun Liu, Weixing Shen, Yiqun LIU<br/>(Long Paper) [Paper](https://arxiv.org/abs/2406.15313) [Code](https://github.com/oneal2000/STARD/tree/main)
 
  
 
