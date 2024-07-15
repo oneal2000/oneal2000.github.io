@@ -37,7 +37,7 @@ I am also passionate about mentoring undergraduate students in research. I've co
 
    
 
-- **Mitigating Entity-Level Hallucinations in Large Language Models**<br/>**Weihang Su**, Yichen Tang, Qingyao Ai, Zhijing Wu, Changyue Wang, Yiqun Liu<br/>(Long Paper) [Code](https://github.com/dynamicDRAD/DRAD/tree/tyc)
+- **Mitigating Entity-Level Hallucinations in Large Language Models**<br/>**Weihang Su**, Yichen Tang, Qingyao Ai, Zhijing Wu, Yiqun Liu<br/>(Long Paper) [Paper](https://arxiv.org/abs/2407.09417) [Code](https://github.com/oneal2000/EntityHallucination)
 
   
 
