@@ -5,21 +5,36 @@ Welcome to my homepage! I am Weihang Su (苏炜航), a second-year PhD student a
 My research focuses on leveraging AI technology to better meet user's information needs, specifically in the following areas:
 
 - Retrieval Augmented Generation (RAG)
-- Evaluating LLMs in Complex IR Tasks
+- Complex IR Tasks
 - AI for Legal Applications
 
-I am also passionate about mentoring undergraduate students in research. I've collaborated with undergraduate students like Changyue Wang, Yichen Tang, and Anzhe Xie, co-authoring high-quality papers at top-tier conferences such as ACL. If you are an undergraduate interested in my research areas and aiming to publish high-quality papers, you can apply for an internship with the THUIR group through official channels or contact me directly to embark on meaningful research together!
+I am also passionate about mentoring undergraduate students in research. I've collaborated with undergraduate students like Changyue Wang, Yichen Tang, and Anzhe Xie, co-authoring high-quality papers at top-tier conferences such as ACL. 
+
+Suppose you are an undergraduate interested in my research areas and aiming to publish high-quality papers. In that case, you can apply for an internship with the THUIR group through official channels or contact me directly to embark on meaningful research together!
 
 
 
 # News
 
+- My first-authored paper, "DRAGIN: Dynamic Retrieval Augmented Generation based on the Real-time Information Needs of Large Language Models," has been selected for an Oral presentation at ACL! **(Top 2.6% in submissions, top 6.8% in accepted papers)**
+- **Our paper “Scaling Laws for Dense Retrieval” has been honored with the SIGIR Best Paper Award!**
 - Two of my first-authored Long Papers were accepted at ACL 2024! This includes one paper in the main conference and one in the findings.
 - My first-authored Long Paper was accepted at AAAI 2024!
 - Our team participated in COLIEE 2023, and won the championship! Here is the link to our Technical Report: https://arxiv.org/abs/2304.12650
 - We participated in the WSDM Cup 2023 and won silver medals in two tasks! Here is the news report: https://www.cs.tsinghua.edu.cn/info/1088/5286.htm
 
 
+
+
+
+# Selected Awards
+
+- **SIGIR 2024 Best Paper Award**
+
+- Winner of the Language and Intelligence Challenge (LIC) Contest (4 winners in the world. Ranked 0.3% among all teams). 
+
+- The first place in the first round of evaluation and the second place in the second round of evaluation of the NTCIR-16 Session Search task.
+- Beijing Outstanding Undergraduate 
 
 
 
@@ -57,7 +72,7 @@ I am also passionate about mentoring undergraduate students in research. I've co
 
  
 
-- Scaling Laws For Dense Retrieval. <br/>Yan Fang, Jingtao Zhan, Qingyao Ai, Jiaxin Mao, **Weihang Su**, Jia Chen and Yiqun Liu. <br/>The 47th International ACM SIGIR Conference on Research and Development in Information Retrieval<br/>**SIGIR 2024 (Long Paper, CCF-A, THU-A)**
+- Scaling Laws For Dense Retrieval. <br/>Yan Fang, Jingtao Zhan, Qingyao Ai, Jiaxin Mao, **Weihang Su**, Jia Chen and Yiqun Liu. <br/>The 47th International ACM SIGIR Conference on Research and Development in Information Retrieval<br/>**SIGIR 2024 Best Paper Award (Long Paper, CCF-A, THU-A)**
 
  
 
@@ -96,13 +111,6 @@ I am also passionate about mentoring undergraduate students in research. I've co
 
 
 
-
-# Selected Awards
-
-- Winner of the Language and Intelligence Challenge (LIC) Contest (4 winners in the world. Ranked 0.3% among all teams). 
-
-- The first place in the first round of evaluation and the second place in the second round of evaluation of the NTCIR-16 Session Search task.
-- Beijing Outstanding Undergraduate 
 
 
 
