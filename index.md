@@ -64,7 +64,7 @@ Suppose you are an undergraduate interested in my research areas and aiming to p
 
 ## **Year 2024**
 
-- **DRAGIN: Dynamic Retrieval Augmented Generation based on the Real-time Information Needs of Large Language Models**<br/>**Weihang Su**, Yichen Tang, Qingyao Ai, Zhijing Wu, Yiqun Liu. <br/>Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics. <br/> **ACL 2024 Main (Long Paper, CCF-A, THU-A)** <br/>[[Paper]](https://arxiv.org/abs/2403.10081) [Code](https://github.com/oneal2000/DRAGIN/tree/main)
+- **DRAGIN: Dynamic Retrieval Augmented Generation based on the Real-time Information Needs of Large Language Models**<br/>**Weihang Su**, Yichen Tang, Qingyao Ai, Zhijing Wu, Yiqun Liu. <br/>Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics. <br/> **ACL 2024 Main (Long Paper, CCF-A, THU-A) [Oral]** <br/>[[Paper]](https://arxiv.org/abs/2403.10081) [Code](https://github.com/oneal2000/DRAGIN/tree/main)
 
  
 
