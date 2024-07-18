@@ -16,8 +16,8 @@ Suppose you are an undergraduate interested in my research areas and aiming to p
 
 # News
 
+- **Our paper “Scaling Laws for Dense Retrieval” received the SIGIR Best Paper Award!**
 - My first-authored paper, "DRAGIN: Dynamic Retrieval Augmented Generation based on the Real-time Information Needs of Large Language Models," has been selected for an Oral presentation at ACL! **(Top 2.6% in submissions, top 6.8% in accepted papers)**
-- **Our paper “Scaling Laws for Dense Retrieval” has been honored with the SIGIR Best Paper Award!**
 - Two of my first-authored Long Papers were accepted at ACL 2024! This includes one paper in the main conference and one in the findings.
 - My first-authored Long Paper was accepted at AAAI 2024!
 - Our team participated in COLIEE 2023, and won the championship! Here is the link to our Technical Report: https://arxiv.org/abs/2304.12650
