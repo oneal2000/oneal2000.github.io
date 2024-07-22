@@ -115,10 +115,6 @@ Suppose you are an undergraduate interested in my research areas and aiming to p
 
 
 # Vistors of this Site
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=GSlcQ6thoCo-X_uF8cQHnLjSZ5jzHTVAmn7ERchT880&cl=ffffff&w=a"></script>
-
-
-
 Total
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=GSlcQ6thoCo-X_uF8cQHnLjSZ5jzHTVAmn7ERchT880'></script>
