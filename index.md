@@ -48,7 +48,7 @@ Suppose you are an undergraduate interested in my research areas and aiming to p
 
 ## **Paper Under Submission**
 
-- **Caseformer: Pre-training for Legal Case Retrieval** <br/>**Weihang Su**, Qingyao Ai, Yueyue Wu, Yixiao Ma, Haitao Li, Yiqun Liu<br/>(Long Paper) [Paper](https://arxiv.org/abs/2311.00333) [Code](https://github.com/oneal2000/Caseformer)
+- **Caseformer: Pre-training for Legal Case Retrieval** <br/>**Weihang Su**, Qingyao Ai, Yueyue Wu, Yixiao Ma, Haitao Li, Yiqun Liu<br/>(Long Paper) [Paper](https://github.com/oneal2000/oneal2000.github.io/raw/main/arxiv_TOIS_caseformer.pdf) [Code](https://github.com/oneal2000/Caseformer)
 
    
 
