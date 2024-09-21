@@ -17,9 +17,10 @@ Suppose you are an undergraduate interested in my research areas and aiming to p
 # News
 
 - **Our paper “Scaling Laws for Dense Retrieval” received the SIGIR Best Paper Award!**
-- My first-authored paper, "DRAGIN: Dynamic Retrieval Augmented Generation based on the Real-time Information Needs of Large Language Models," has been selected for an Oral presentation at ACL! **(Top 2.6% in submissions, top 6.8% in accepted papers)**
-- Two of my first-authored Long Papers were accepted at ACL 2024! This includes one paper in the main conference and one in the findings.
-- My first-authored Long Paper was accepted at AAAI 2024!
+- My **first-authored** Long Paper has been accepted at **EMNLP 2024**! 
+- My **first-authored** paper, "DRAGIN: Dynamic Retrieval Augmented Generation based on the Real-time Information Needs of Large Language Models," has been selected for an Oral presentation at ACL! **(Top 2.6% in submissions, top 6.8% in accepted papers)**
+- Two of my **first-authored** Long Papers were accepted at **ACL 2024**! This includes one paper in the main conference and one in the findings.
+- My **first-authored** Long Paper was accepted at **AAAI 2024**!
 - Our team participated in COLIEE 2023, and won the championship! Here is the link to our Technical Report: https://arxiv.org/abs/2304.12650
 - We participated in the WSDM Cup 2023 and won silver medals in two tasks! Here is the news report: https://www.cs.tsinghua.edu.cn/info/1088/5286.htm
 
@@ -54,15 +55,22 @@ Suppose you are an undergraduate interested in my research areas and aiming to p
 
 - **Mitigating Entity-Level Hallucinations in Large Language Models**<br/>**Weihang Su**, Yichen Tang, Qingyao Ai, Zhijing Wu, Yiqun Liu<br/>(Long Paper) [Paper](https://arxiv.org/abs/2407.09417) [Code](https://github.com/oneal2000/EntityHallucination)
 
-  
+   
 
-- **STARD: A Chinese Statute Retrieval Dataset with Real Queries Issued by Non-professionals**<br/>**Weihang Su**, Yiran Hu, Anzhe Xie, Qingyao Ai, Zibing Que, Yun Liu, Weixing Shen, Yiqun LIU<br/>(Long Paper) [Paper](https://arxiv.org/abs/2406.15313) [Code](https://github.com/oneal2000/STARD/tree/main)
 
- 
+
 
 
 
 ## **Year 2024**
+
+- **STARD: A Chinese Statute Retrieval Dataset with Real Queries Issued by Non-professionals**<br/>**Weihang Su**, Yiran Hu, Anzhe Xie, Qingyao Ai, Zibing Que, Yun Liu, Weixing Shen, Yiqun LIU<br/>
+
+  The 2024 Conference on Empirical Methods in Natural Language Processing <br/>
+
+  **EMNLP 2024 Findings (Long Paper, CCF-A, THU-A)**  [Paper](https://arxiv.org/abs/2406.15313) [Code](https://github.com/oneal2000/STARD/tree/main)
+
+
 
 - **DRAGIN: Dynamic Retrieval Augmented Generation based on the Real-time Information Needs of Large Language Models**<br/>**Weihang Su**, Yichen Tang, Qingyao Ai, Zhijing Wu, Yiqun Liu. <br/>Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics. <br/> **ACL 2024 Main (Long Paper, CCF-A, THU-A) [Oral]** <br/>[[Paper]](https://arxiv.org/abs/2403.10081) [Code](https://github.com/oneal2000/DRAGIN/tree/main)
 
