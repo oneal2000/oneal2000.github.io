@@ -53,7 +53,7 @@ Suppose you are an undergraduate interested in my research areas and aiming to p
 
    
 
-- **Mitigating Entity-Level Hallucinations in Large Language Models**<br/>**Weihang Su**, Yichen Tang, Qingyao Ai, Zhijing Wu, Yiqun Liu<br/>(Long Paper) [Paper](https://arxiv.org/abs/2407.09417) [Code](https://github.com/oneal2000/EntityHallucination)
+- 
 
    
 
@@ -63,6 +63,12 @@ Suppose you are an undergraduate interested in my research areas and aiming to p
 
 
 ## **Year 2024**
+
+- **Mitigating Entity-Level Hallucinations in Large Language Models**<br/>**Weihang Su**, Yichen Tang, Qingyao Ai, Zhijing Wu, Yiqun Liu<br/>International ACM SIGIR Conference on Information Retrieval in the Asia Pacific<br/>**SIGIR-AP 2024 (Long Paper)** [Paper](https://arxiv.org/abs/2407.09417) [Code](https://github.com/oneal2000/EntityHallucination)
+
+
+
+
 
 - **STARD: A Chinese Statute Retrieval Dataset with Real Queries Issued by Non-professionals**<br/>**Weihang Su**, Yiran Hu, Anzhe Xie, Qingyao Ai, Zibing Que, Yun Liu, Weixing Shen, Yiqun LIU<br/>The 2024 Conference on Empirical Methods in Natural Language Processing <br/>**EMNLP 2024 Findings (Long Paper, CCF-B, THU-A)**  [Paper](https://arxiv.org/abs/2406.15313) [Code](https://github.com/oneal2000/STARD/tree/main)
 
