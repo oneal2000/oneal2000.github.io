@@ -51,20 +51,18 @@ Suppose you are an undergraduate interested in my research areas and aiming to p
 
 - **Caseformer: Pre-training for Legal Case Retrieval** <br/>**Weihang Su**, Qingyao Ai, Yueyue Wu, Yixiao Ma, Haitao Li, Yiqun Liu<br/>(Long Paper) [Paper](https://github.com/oneal2000/oneal2000.github.io/raw/main/arxiv_TOIS_caseformer.pdf) [Code](https://github.com/oneal2000/Caseformer)
 
-   
-
-- 
-
-   
-
-
-
 
 
 
 ## **Year 2024**
 
 - **Mitigating Entity-Level Hallucinations in Large Language Models**<br/>**Weihang Su**, Yichen Tang, Qingyao Ai, Zhijing Wu, Yiqun Liu<br/>International ACM SIGIR Conference on Information Retrieval in the Asia Pacific<br/>**SIGIR-AP 2024 (Long Paper)** [Paper](https://arxiv.org/abs/2407.09417) [Code](https://github.com/oneal2000/EntityHallucination)
+
+
+
+
+
+- **LeKUBE: A Legal Knowledge Update BEnchmark**<br/>Changyue Wang, Weihang Su, Hu Yiran, Qingyao Ai, Yueyue Wu, Cheng Luo, Yiqun Liu, Min Zhang, Shaoping Ma<br/>International ACM SIGIR Conference on Information Retrieval in the Asia Pacific<br/>**SIGIR-AP 2024 (Long Paper)** [Paper](https://arxiv.org/abs/2407.09417) [Code](https://github.com/oneal2000/EntityHallucination)
 
 
 
