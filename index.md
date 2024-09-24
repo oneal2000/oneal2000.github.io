@@ -16,6 +16,7 @@ Suppose you are an undergraduate interested in my research areas and aiming to p
 
 # News
 
+- My **first-authored** Long Paper has been accepted at **SIGIR-AP 2024**! 
 - My **first-authored** Long Paper has been accepted at **EMNLP 2024**! 
 - **Our paper “Scaling Laws for Dense Retrieval” received the SIGIR Best Paper Award!**
 - My **first-authored** paper, "DRAGIN: Dynamic Retrieval Augmented Generation based on the Real-time Information Needs of Large Language Models," has been selected for an Oral presentation at ACL! **(Top 2.6% in submissions, top 6.8% in accepted papers)**
