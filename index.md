@@ -63,7 +63,7 @@ Suppose you are an undergraduate interested in my research areas and aiming to p
 
 
 
-- **LeKUBE: A Legal Knowledge Update BEnchmark**<br/>Changyue Wang, Weihang Su, Hu Yiran, Qingyao Ai, Yueyue Wu, Cheng Luo, Yiqun Liu, Min Zhang, Shaoping Ma<br/>International ACM SIGIR Conference on Information Retrieval in the Asia Pacific<br/>**SIGIR-AP 2024 (Long Paper)** [Paper](https://arxiv.org/abs/2407.09417) [Code](https://github.com/oneal2000/EntityHallucination)
+- **LeKUBE: A Legal Knowledge Update BEnchmark**<br/>Changyue Wang, **Weihang Su**, Hu Yiran, Qingyao Ai, Yueyue Wu, Cheng Luo, Yiqun Liu, Min Zhang, Shaoping Ma<br/>International ACM SIGIR Conference on Information Retrieval in the Asia Pacific<br/>**SIGIR-AP 2024 (Long Paper)** [Paper](https://arxiv.org/abs/2407.09417) [Code](https://github.com/oneal2000/EntityHallucination)
 
 
 
