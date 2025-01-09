@@ -16,12 +16,14 @@ Suppose you are an undergraduate interested in my research areas and aiming to p
 
 # News
 
-- My **first-authored** Long Paper has been accepted at **SIGIR-AP 2024**! 
-- My **first-authored** Long Paper has been accepted at **EMNLP 2024**! 
+- **My** **first-authored** Long Paper has been accepted at **TOIS 2025**! 
+- **My** **first-authored** Long Paper has been accepted at **SIGIR-AP 2024**! 
+- **My** **first-authored** Long Paper has been accepted at **EMNLP 2024**! 
 - **Our paper “Scaling Laws for Dense Retrieval” received the SIGIR Best Paper Award!**
-- My **first-authored** paper, "DRAGIN: Dynamic Retrieval Augmented Generation based on the Real-time Information Needs of Large Language Models," has been selected for an Oral presentation at ACL! **(Top 2.6% in submissions, top 6.8% in accepted papers)**
-- Two of my **first-authored** Long Papers were accepted at **ACL 2024**! This includes one paper in the main conference and one in the findings.
-- My **first-authored** Long Paper was accepted at **AAAI 2024**!
+- **My** **first-authored** paper, "DRAGIN: Dynamic Retrieval Augmented Generation based on the Real-time Information Needs of Large Language Models," has been selected for an **Oral presentation** at ACL! **(ACL 2024 Oral, Top 2.6% in submissions, top 6.8% in accepted papers)**
+- **My** **first-authored** Long Paper has beem accepted at **ACL 2024 Main Conference**! 
+- **My** **first-authored** Long Paper were accepted at **Findings of ACL 2024**! 
+- **My** **first-authored** Long Paper was accepted at **AAAI 2024**!
 - Our team participated in COLIEE 2023, and won the championship! Here is the link to our Technical Report: https://arxiv.org/abs/2304.12650
 - We participated in the WSDM Cup 2023 and won silver medals in two tasks! Here is the news report: https://www.cs.tsinghua.edu.cn/info/1088/5286.htm
 
