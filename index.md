@@ -33,6 +33,8 @@ Suppose you are an undergraduate interested in my research areas and aiming to p
 
 # Selected Awards
 
+- **China Association for Science and Technology’s Young Talents Project, Ph.D. Program** 
+
 - **National Scholarship**, Dept. CST, Tsinghua University, 2024
 
 - **SIGIR 2024 Best Paper Award**
