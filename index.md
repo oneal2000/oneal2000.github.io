@@ -52,9 +52,13 @@ Suppose you are an undergraduate interested in my research areas and aiming to p
 
 ## **Paper Under Submission**
 
-- **Caseformer: Pre-training for Legal Case Retrieval** <br/>**Weihang Su**, Qingyao Ai, Yueyue Wu, Yixiao Ma, Haitao Li, Yiqun Liu<br/>(Long Paper) [Paper](https://github.com/oneal2000/oneal2000.github.io/raw/main/arxiv_TOIS_caseformer.pdf) [Code](https://github.com/oneal2000/Caseformer) 
-
 - Knowledge Editing through Chain-of-Thought<br/>Changyue Wang, **Weihang Su**, Qingyao Ai, Yiqun Liu<br/>(Long Paper) [Paper](https://arxiv.org/abs/2412.17727) [Code](https://github.com/bebr2/EditCoT) 
+
+
+
+## Year 2025
+
+- **Caseformer: Pre-training for Legal Case Retrieval Based on Inter-Case Distinctions**. <br/>**Weihang Su**, Qingyao Ai, Yueyue Wu, Anzhe Xie, Changyue Wang, Yixiao Ma, Haitao Li, Zhijing Wu, Yiqun Liu, Min Zhang.<br/>ACM Transactions on Information Systems<br/>**TOIS 2025 (Long Paper, CCF-A, THU-A)**
 
 
 
