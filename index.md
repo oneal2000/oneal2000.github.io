@@ -20,12 +20,12 @@ Suppose you are an undergraduate interested in my research areas and aiming to p
 - **My** **first-authored** Long Paper has been accepted at **SIGIR-AP 2024**! 
 - **My** **first-authored** Long Paper has been accepted at **EMNLP 2024**! 
 - **Our paper “Scaling Laws for Dense Retrieval” received the SIGIR Best Paper Award!**
-- **My** **first-authored** paper, "DRAGIN: Dynamic Retrieval Augmented Generation based on the Real-time Information Needs of Large Language Models," has been selected for an **Oral presentation** at ACL! **(ACL 2024 Oral, Top 2.6% in submissions, top 6.8% in accepted papers)**
-- **My** **first-authored** Long Paper has beem accepted at **ACL 2024 Main Conference**! 
-- **My** **first-authored** Long Paper were accepted at **Findings of ACL 2024**! 
+- **My first-authored paper, "DRAGIN" has been selected for an Oral presentation at ACL! (ACL 2024 Oral, Top 2.6% in submissions, top 6.8% in accepted papers)**
+- **My** **first-authored** Long Paper has been accepted at **ACL 2024 Main Conference**! 
+- **My** **first-authored** Long Paper was accepted at **Findings of ACL 2024**! 
 - **My** **first-authored** Long Paper was accepted at **AAAI 2024**!
-- Our team participated in COLIEE 2023, and won the championship! Here is the link to our Technical Report: https://arxiv.org/abs/2304.12650
-- We participated in the WSDM Cup 2023 and won silver medals in two tasks! Here is the news report: https://www.cs.tsinghua.edu.cn/info/1088/5286.htm
+- Our team participated in **COLIEE 2023** and won the **championship**! Here is the link to our Technical Report: https://arxiv.org/abs/2304.12650
+- We participated in the **WSDM Cup 2023** and won **silver medals in two tasks!** Here is the news report: https://www.cs.tsinghua.edu.cn/info/1088/5286.htm
 
 
 
@@ -34,14 +34,9 @@ Suppose you are an undergraduate interested in my research areas and aiming to p
 # Selected Awards
 
 - **China Association for Science and Technology’s Young Talents Project, Ph.D. Program** 
-
 - **National Scholarship**, Dept. CST, Tsinghua University, 2024
-
 - **SIGIR 2024 Best Paper Award**
-
 - Winner of the Language and Intelligence Challenge (LIC) Contest (4 winners in the world. Ranked 0.3% among all teams). 
-
-- The first place in the first round of evaluation and the second place in the second round of evaluation of the NTCIR-16 Session Search task.
 - Beijing Outstanding Undergraduate 
 
 
