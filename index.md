@@ -10,13 +10,13 @@ My research focuses on leveraging AI technology to better meet user's informatio
 
 
 
-I am currently exploring an interesting direction: **Parametric Retrieval-Augmented Generation (Parametric RAG)**. This approach aims to directly inject external knowledge into the parameters of large language models (LLMs) rather than relying on traditional in-context knowledge injection that appends retrieved documents to the LLM's input. By parameterizing documents and integrating them into the model, Parametric RAG improves the overall performance of the RAG system and online inference efficiency while maintaining flexibility. Feel free to check out the preprint version of our paper: [Parametric Retrieval-Augmented Generation](https://arxiv.org/abs/2501.15915).
+I am currently exploring an interesting direction: **Parametric Retrieval-Augmented Generation (Parametric RAG)**. We propose a new RAG paradigm that directly injects external knowledge into the parameters of large language models (LLMs) rather than relying on traditional in-context knowledge injection that appends retrieved documents to the LLM's input. By parameterizing documents and integrating them into the model during the inference stage, Parametric RAG improves the overall performance of the RAG system and online efficiency while maintaining flexibility. Feel free to check out the preprint version of our paper: [Parametric Retrieval-Augmented Generation](https://arxiv.org/abs/2501.15915).
 
 
 
-I am also passionate about mentoring undergraduate students in research. I've collaborated with undergraduate students like Changyue Wang, Yichen Tang, and Anzhe Xie, co-authoring high-quality papers at top-tier conferences such as ACL. 
+I am also passionate about mentoring undergraduate students in research. I've collaborated with undergraduate students like Changyue Wang, Yichen Tang, and Anzhe Xie, co-authoring high-quality papers at top-tier conferences such as ACL, EMNLP, TOIS, SIGIR-AP, etc. 
 
-Suppose you are an undergraduate interested in my research areas and aiming to publish high-quality papers. In that case, you can apply for an internship with the THUIR group through official channels or contact me directly to embark on meaningful research together!
+If you are an undergraduate interested in my research areas and aim to publish high-quality papers, you can apply for an internship with the THUIR group through official channels or contact me directly to embark on meaningful research together!
 
 
 
