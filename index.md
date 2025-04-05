@@ -22,6 +22,9 @@ If you are an undergraduate interested in my research areas and aim to publish h
 
 # News
 
+- Our Paper **RbFT** has been accepted at **SIGIR 2025**! **Congratulations to Yiteng!**
+- **My** **first-authored** Long Paper **JuDGE** has been accepted at **SIGIR 2025**! 
+- **My** **first-authored** Long Paper **Parametric RAG** has been accepted at **SIGIR 2025**! 
 - **My** **first-authored** Long Paper has been accepted at **TOIS 2025**! 
 - **My** **first-authored** Long Paper has been accepted at **SIGIR-AP 2024**! 
 - **My** **first-authored** Long Paper has been accepted at **EMNLP 2024**! 
@@ -59,15 +62,12 @@ The titles of my first-author papers are in bold (excluding co-first where the r
 
 ## **Paper Under Submission**
 
-- **Parametric Retrieval Augmented Generation**<br/>**Weihang Su**, Yichen Tang, Qingyao Ai, Junxi Yan, Changyue Wang, Hongning Wang, Ziyi Ye, Yujia Zhou, Yiqun Liu<br/>(Long Paper) [Paper](https://arxiv.org/abs/2501.15915) [Code](https://github.com/oneal2000/PRAG/tree/main) 
 
-- **JuDGE: Benchmarking Judgment Document Generation for Chinese Legal System**<br/>**Weihang Su**, Baoqing Yue, Qingyao Ai, Yiran Hu, Jiaqi Li, Changyue Wang, Kaiyuan Zhang, Yueyue Wu, Yiqun Liu<br/>(Long Paper) [Code and Dataset](https://github.com/oneal2000/JuDGE) 
 
 - **Benchmarking Computer Science Survey Generation**<br/>**Weihang Su**, Anzhe Xie, Qingyao Ai, Jianming Long, Jiaxin Mao, Yiqun Liu<br/>(Long Paper) [Code and Dataset](https://github.com/oneal2000/SurGE) 
 
-- RbFT: Robust Fine-tuning for Retrieval-Augmented Generation against Retrieval Defects<br/>Yiteng Tu, **Weihang Su**, Yujia Zhou, Yiqun Liu, Qingyao Ai
-  <br/>(Long Paper)  [Paper](https://arxiv.org/abs/2501.18365) [Code](https://github.com/StibiumT16/Robust-Fine-tuning) 
   
+
 - Knowledge Editing through Chain-of-Thought<br/>Changyue Wang, **Weihang Su**, Qingyao Ai, Yiqun Liu<br/>(Long Paper) [Paper](https://arxiv.org/abs/2412.17727) [Code](https://github.com/bebr2/EditCoT) 
 
   
@@ -77,6 +77,21 @@ The titles of my first-author papers are in bold (excluding co-first where the r
 
 
 ## Year 2025
+
+
+
+- **Parametric Retrieval Augmented Generation**<br/>**Weihang Su**, Yichen Tang, Qingyao Ai, Junxi Yan, Changyue Wang, Hongning Wang, Ziyi Ye, Yujia Zhou, Yiqun Liu<br/>**SIGIR 2025 (Long Paper, CCF-A, THU-A) Long Paper** [Paper](https://arxiv.org/abs/2501.15915) [Code](https://github.com/oneal2000/PRAG/tree/main) 
+
+
+
+- **JuDGE: Benchmarking Judgment Document Generation for Chinese Legal System**<br/>**Weihang Su**, Baoqing Yue, Qingyao Ai, Yiran Hu, Jiaqi Li, Changyue Wang, Kaiyuan Zhang, Yueyue Wu, Yiqun Liu<br/>**SIGIR 2025 (Long Paper, CCF-A, THU-A) Long Paper** [Paper](https://arxiv.org/abs/2503.14258) [Code and Dataset](https://github.com/oneal2000/JuDGE) 
+
+  
+
+- RbFT: Robust Fine-tuning for Retrieval-Augmented Generation against Retrieval Defects<br/>Yiteng Tu, **Weihang Su**, Yujia Zhou, Yiqun Liu, Qingyao Ai
+  <br/>**SIGIR 2025 (Long Paper, CCF-A, THU-A) Long Paper**  [Paper](https://arxiv.org/abs/2501.18365) [Code](https://github.com/StibiumT16/Robust-Fine-tuning) 
+
+
 
 - **Caseformer: Pre-training for Legal Case Retrieval Based on Inter-Case Distinctions**. <br/>**Weihang Su**, Qingyao Ai, Yueyue Wu, Anzhe Xie, Changyue Wang, Yixiao Ma, Haitao Li, Zhijing Wu, Yiqun Liu, Min Zhang.<br/>ACM Transactions on Information Systems<br/>**TOIS 2025 (Long Paper, CCF-A, THU-A)**
 
