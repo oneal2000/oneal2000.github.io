@@ -10,7 +10,7 @@ My research focuses on leveraging AI technology to better meet user's informatio
 
 
 
-I am currently exploring an interesting direction: **Parametric Retrieval-Augmented Generation (Parametric RAG)**. We propose a new RAG paradigm that directly injects external knowledge into the parameters of large language models (LLMs) rather than relying on traditional in-context knowledge injection that appends retrieved documents to the LLM's input. By parameterizing documents and integrating them into the model during the inference stage, Parametric RAG improves the overall performance of the RAG system and online efficiency while maintaining flexibility. Feel free to check out the preprint version of our paper: [Parametric Retrieval-Augmented Generation](https://arxiv.org/abs/2501.15915).
+I am currently exploring an interesting direction: **Parametric Retrieval-Augmented Generation (Parametric RAG, [Paper](https://arxiv.org/abs/2501.15915) [Code](https://github.com/oneal2000/PRAG/tree/main) )**. We propose a new RAG paradigm that directly injects external knowledge into the parameters of large language models (LLMs) rather than relying on traditional in-context knowledge injection that appends retrieved documents to the LLM's input. By parameterizing documents and integrating them into the model during the inference stage, Parametric RAG improves the overall performance of the RAG system and online efficiency while maintaining flexibility. Feel free to check out the preprint version of our paper: [Parametric Retrieval-Augmented Generation](https://arxiv.org/abs/2501.15915).
 
 
 
