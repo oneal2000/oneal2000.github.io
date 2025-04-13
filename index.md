@@ -14,9 +14,9 @@ I am currently exploring an interesting direction: **Parametric Retrieval-Augmen
 
 
 
-I am also passionate about mentoring undergraduate students in research. I've collaborated with undergraduate students like Changyue Wang, Yichen Tang, and Anzhe Xie, co-authoring high-quality papers at top-tier conferences and journals such as ACL, SIGIR, EMNLP, TOIS, SIGIR-AP, etc. 
+I am also passionate about mentoring undergraduate students in research. I've collaborated with undergraduate students like Changyue Wang, Yichen Tang, Anzhe Xie, Baoqing Yue, and Junxi Yan, co-authoring high-quality papers at top-tier conferences and journals such as ACL, SIGIR, EMNLP, TOIS, SIGIR-AP, etc. 
 
-If you are an undergraduate interested in my research areas and aim to publish high-quality papers, you can apply for an internship with the THUIR group through official channels or contact me directly to embark on meaningful research together!
+If you are an undergraduate interested in my research areas and aim to publish high-quality papers, you can apply for an internship with the THUIR group through official channels or contact me (WeChat ID: rdfzswh) directly to embark on meaningful research together!
 
 
 
