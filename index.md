@@ -1,6 +1,6 @@
 # About me
 
-Welcome to my homepage! I am Weihang Su (苏炜航), a second-year PhD student at the Department of Computer Science and Technology, Tsinghua University, under the supervision of Prof. Yiqun Liu. 
+Welcome to my homepage! I am Weihang Su (苏炜航), a third-year PhD student at the Department of Computer Science and Technology, Tsinghua University, under the supervision of Prof. Yiqun Liu. 
 
 My research focuses on leveraging AI technology to better meet user's information needs, specifically in the following areas:
 
@@ -94,6 +94,14 @@ The titles of my first-author papers are in bold (excluding co-first where the r
 
 
 - **Caseformer: Pre-training for Legal Case Retrieval Based on Inter-Case Distinctions**. <br/>**Weihang Su**, Qingyao Ai, Yueyue Wu, Anzhe Xie, Changyue Wang, Yixiao Ma, Haitao Li, Zhijing Wu, Yiqun Liu, Min Zhang.<br/>ACM Transactions on Information Systems<br/>**TOIS 2025 (Long Paper, CCF-A, THU-A)**
+
+
+
+- **DecoupledRAG: An Efficient and Effective Retrieval Augmented Generation Framework via Cross Attention**. <br/>Qian Dong, Qingyao Ai, Hongning Wang, Yiding Liu, Haitao Li, **Weihang Su**, Yiqun Liu, Tat-Seng Chua, Shaoping Ma.<br/>ACM Transactions on Information Systems<br/>**WWW 2025 (Long Paper, CCF-A, THU-A)**
+
+
+
+
 
 
 
