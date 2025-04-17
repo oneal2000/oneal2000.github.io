@@ -97,7 +97,7 @@ The titles of my first-author papers are in bold (excluding co-first where the r
 
 
 
-- **DecoupledRAG: An Efficient and Effective Retrieval Augmented Generation Framework via Cross Attention**. <br/>Qian Dong, Qingyao Ai, Hongning Wang, Yiding Liu, Haitao Li, **Weihang Su**, Yiqun Liu, Tat-Seng Chua, Shaoping Ma.<br/>ACM Transactions on Information Systems<br/>**WWW 2025 (Long Paper, CCF-A, THU-A)**
+- DecoupledRAG: An Efficient and Effective Retrieval Augmented Generation Framework via Cross Attention. <br/>Qian Dong, Qingyao Ai, Hongning Wang, Yiding Liu, Haitao Li, **Weihang Su**, Yiqun Liu, Tat-Seng Chua, Shaoping Ma.<br/>ACM Transactions on Information Systems<br/>**WWW 2025 (Long Paper, CCF-A, THU-A)**
 
 
 
