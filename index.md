@@ -22,6 +22,12 @@ If you are an undergraduate interested in my research areas and aim to publish h
 
 # News
 
+🎉 Our SIGIR 2025 tutorial on **Dynamic and Parametric RAG** has been accepted!
+
+ 📍 Join us in **Padua** on **July 13** to explore the next generation of Retrieval-Augmented Generation!
+
+
+
 - **My** **first-authored** **Tutorial** on RAG has been accepted at **SIGIR 2025**! 
 - Our Paper **RbFT** has been accepted at **SIGIR 2025**! **Congratulations to Yiteng!**
 - **My** **first-authored** Long Paper **JuDGE** has been accepted at **SIGIR 2025**! 
