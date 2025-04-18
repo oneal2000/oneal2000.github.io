@@ -22,6 +22,7 @@ If you are an undergraduate interested in my research areas and aim to publish h
 
 # News
 
+- **My** **first-authored** **Tutorial** on RAG has been accepted at **SIGIR 2025**! 
 - Our Paper **RbFT** has been accepted at **SIGIR 2025**! **Congratulations to Yiteng!**
 - **My** **first-authored** Long Paper **JuDGE** has been accepted at **SIGIR 2025**! 
 - **My** **first-authored** Long Paper **Parametric RAG** has been accepted at **SIGIR 2025**! 
@@ -77,6 +78,8 @@ The titles of my first-author papers are in bold (excluding co-first where the r
 
 
 ## Year 2025
+
+- **Dynamic and Parametric Retrieval-Augmented Generation**<br/>**Weihang Su**, Qingyao Ai, Jingtao Zhan, Qian Dong, Yiqun Liu<br/>**SIGIR 2025 (Tutorial, CCF-A, THU-A)**
 
 
 
