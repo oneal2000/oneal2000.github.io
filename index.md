@@ -26,20 +26,20 @@ If you are an undergraduate interested in my research areas and aim to publish h
 
 
 
-- **My** **first-authored** **Tutorial** on RAG has been accepted at **SIGIR 2025**! 
-- Our Paper **RbFT** has been accepted at **SIGIR 2025**! **Congratulations to Yiteng!**
-- **My** **first-authored** Long Paper **JuDGE** has been accepted at **SIGIR 2025**! 
-- **My** **first-authored** Long Paper **Parametric RAG** has been accepted at **SIGIR 2025**! 
-- **My** **first-authored** Long Paper **Caseformer** has been accepted at **TOIS 2025**! 
-- **My** **first-authored** Long Paper **DRAD** has been accepted at **SIGIR-AP 2024**! 
-- **My** **first-authored** Long Paper **STARD** has been accepted at **EMNLP 2024**! 
+- My first-authored Tutorial on RAG has been accepted at SIGIR 2025! 
+- Our Paper RbFT has been accepted at SIGIR 2025! Congratulations to Yiteng!
+- My first-authored Long Paper JuDGE has been accepted at SIGIR 2025! 
+- My first-authored Long Paper Parametric RAG has been accepted at SIGIR 2025! 
+- My first-authored Long Paper Caseformer has been accepted at TOIS 2025! 
+- My first-authored Long Paper DRAD has been accepted at SIGIR-AP 2024! 
+- My first-authored Long Paper STARD has been accepted at EMNLP 2024! 
 - **Our paper “Scaling Laws for Dense Retrieval” received the SIGIR Best Paper Award!**
-- **My first-authored paper, "DRAGIN" has been selected for an Oral presentation at ACL! (ACL 2024 Oral, Top 2.6% in submissions, top 6.8% in accepted papers)**
-- **My** **first-authored** Long Paper **DRAGIN** has been accepted at **ACL 2024 Main Conference**! 
-- **My** **first-authored** Long Paper **MIND** was accepted at **Findings of ACL 2024**! 
-- **My** **first-authored** Long Paper **Wikiformer** was accepted at **AAAI 2024**!
-- Our team participated in **COLIEE 2023** and won the **championship**! Here is the link to our Technical Report: https://arxiv.org/abs/2304.12650
-- We participated in the **WSDM Cup 2023** and won **silver medals in two tasks!** Here is the news report: https://www.cs.tsinghua.edu.cn/info/1088/5286.htm
+- **My first-authored paper "DRAGIN" has been selected for an Oral presentation at ACL! (ACL 2024 Oral, Top 2.6% in submissions, top 6.8% in accepted papers)**
+- My first-authored Long Paper DRAGIN has been accepted at ACL 2024 Main Conference! 
+- My first-authored Long Paper MIND was accepted at Findings of ACL 2024! 
+- My first-authored Long Paper Wikiformer was accepted at AAAI 2024!
+- Our team participated in COLIEE 2023 and won the championship! Here is the link to our Technical Report: https://arxiv.org/abs/2304.12650
+- We participated in the WSDM Cup 2023 and won silver medals in two tasks! Here is the news report: https://www.cs.tsinghua.edu.cn/info/1088/5286.htm
 
 
 
