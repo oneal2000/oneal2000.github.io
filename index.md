@@ -2,17 +2,14 @@
 
 Welcome to my homepage! I am Weihang Su (苏炜航), a third-year PhD student at the Department of Computer Science and Technology, Tsinghua University, under the supervision of Prof. Yiqun Liu. 
 
-My research focuses on leveraging AI technology to better meet user's information needs, specifically in the following areas:
+My research focuses on leveraging AI technology (LLMs) to better meet users' information needs, specifically in the following areas:
 
-- Retrieval Augmented Generation (RAG)
-- Complex IR Tasks
+- Retrieval Augmented Generation
+- Knowledge Injection and Editing for LLMs
+- Hallucination Detection and Mitigation for LLMs
 - AI for Legal Applications
 
-
-
-I am currently exploring an interesting direction: **Parametric Retrieval-Augmented Generation (Parametric RAG, [Paper](https://arxiv.org/abs/2501.15915) [Code](https://github.com/oneal2000/PRAG/tree/main) )**. We propose a new RAG paradigm that directly injects external knowledge into the parameters of large language models (LLMs) rather than relying on traditional in-context knowledge injection that appends retrieved documents to the LLM's input. By parameterizing documents and integrating them into the model during the inference stage, Parametric RAG improves the overall performance of the RAG system and online efficiency while maintaining flexibility. Feel free to check out the preprint version of our paper: [Parametric Retrieval-Augmented Generation](https://arxiv.org/abs/2501.15915).
-
-
+I am currently exploring an interesting direction: **Parametric Retrieval-Augmented Generation (Parametric RAG, [Paper](https://arxiv.org/abs/2501.15915) [Code](https://github.com/oneal2000/PRAG/tree/main) )**. We propose a new RAG paradigm that directly injects external knowledge into the parameters of large language models (LLMs) rather than relying on traditional in-context knowledge injection that appends retrieved documents to the LLM's input. By parameterizing documents and integrating them into the model during the inference stage, Parametric RAG improves the overall performance of the RAG system and online efficiency while maintaining flexibility. 
 
 I am also passionate about mentoring undergraduate students in research. I've collaborated with undergraduate students like Changyue Wang, Yichen Tang, Anzhe Xie, Baoqing Yue, and Junxi Yan, co-authoring high-quality papers at top-tier conferences and journals such as ACL, SIGIR, EMNLP, TOIS, SIGIR-AP, etc. 
 
@@ -24,18 +21,18 @@ If you are an undergraduate interested in my research areas and aim to publish h
 
 🎉 Our **SIGIR 2025 tutorial** on [**Dynamic and Parametric RAG**](https://sites.google.com/view/sigir2025-tutorial-dprag/home-page)  has been accepted!  Join us in 📍 **Padua** on **July 13** to explore the next generation of Retrieval-Augmented Generation! More information at: https://sites.google.com/view/sigir2025-tutorial-dprag/home-page
 
-- My first-authored Tutorial on RAG has been accepted at SIGIR 2025! 
+- My first-authored [Tutorial](https://sites.google.com/view/sigir2025-tutorial-dprag/home-page) on RAG has been accepted at SIGIR 2025! 
 - Our Paper RbFT has been accepted at SIGIR 2025! Congratulations to Yiteng!
 - My first-authored Long Paper JuDGE has been accepted at SIGIR 2025! 
 - My first-authored Long Paper Parametric RAG has been accepted at SIGIR 2025! 
 - My first-authored Long Paper Caseformer has been accepted at TOIS 2025! 
-- My first-authored Long Paper DRAD has been accepted at SIGIR-AP 2024! 
-- My first-authored Long Paper STARD has been accepted at EMNLP 2024! 
+- My first-authored Long Paper [DRAD](https://dl.acm.org/doi/10.1145/3673791.3698403) has been accepted at SIGIR-AP 2024! 
+- My first-authored Long Paper [STARD](https://aclanthology.org/2024.findings-emnlp.625/) has been accepted at EMNLP 2024! 
 - **Our paper “Scaling Laws for Dense Retrieval” received the SIGIR Best Paper Award!**
-- **My first-authored paper "DRAGIN" has been selected for an Oral presentation at ACL! (ACL 2024 Oral, Top 2.6% in submissions, top 6.8% in accepted papers)**
-- My first-authored Long Paper DRAGIN has been accepted at ACL 2024 Main Conference! 
-- My first-authored Long Paper MIND was accepted at Findings of ACL 2024! 
-- My first-authored Long Paper Wikiformer was accepted at AAAI 2024!
+- **My first-authored paper "DRAGIN" has been selected for an Oral presentation at ACL! (Top 2.6% in submissions, top 6.8% in accepted papers)**
+- My first-authored Long Paper [DRAGIN](https://aclanthology.org/2024.acl-long.702/) has been accepted at ACL 2024 Main Conference! 
+- My first-authored Long Paper [MIND](https://aclanthology.org/2024.findings-acl.854/) has been accepted at Findings of ACL 2024! 
+- My first-authored Long Paper [Wikiformer](https://ojs.aaai.org/index.php/AAAI/article/view/29869) has been accepted at AAAI 2024!
 - Our team participated in COLIEE 2023 and won the championship! Here is the link to our Technical Report: https://arxiv.org/abs/2304.12650
 - We participated in the WSDM Cup 2023 and won silver medals in two tasks! Here is the news report: https://www.cs.tsinghua.edu.cn/info/1088/5286.htm
 
@@ -66,6 +63,8 @@ The titles of my first-author papers are in bold (excluding co-first where the r
 
 ## **Paper Under Submission**
 
+- **Plug-in Parameter Generation for Test-Time Parametric Knowledge Injection**<br/>**Weihang Su**, Jiaqing Wu, Qingyao Ai, Hanwen Zhang, Jiaxin Mao, Yiqun Liu<br/>(Long Paper) 
+
 
 
 - **Benchmarking Computer Science Survey Generation**<br/>**Weihang Su**, Anzhe Xie, Qingyao Ai, Jianming Long, Jiaxin Mao, Yiqun Liu<br/>(Long Paper) [Code and Dataset](https://github.com/oneal2000/SurGE) 
@@ -76,13 +75,19 @@ The titles of my first-author papers are in bold (excluding co-first where the r
 
   
 
+- Equity vs. Equality: Optimizing Ranking Fairness for Tailored Provider Needs<br/>Yiteng Tu, **Weihang Su**, Shuguang Han, Yiqun LIU, Min Zhang, Shaoping Ma, Qingyao Ai<br/>(Long Paper) 
 
-
-
+  
 
 ## Year 2025
 
-- **Dynamic and Parametric Retrieval-Augmented Generation**<br/>**Weihang Su**, Qingyao Ai, Jingtao Zhan, Qian Dong, Yiqun Liu<br/>**SIGIR 2025 (Tutorial, CCF-A, THU-A)**
+
+
+- Decoupling Reasoning and Knowledge Injection for In-Context Knowledge Editing<br/>Changyue Wang, **Weihang Su**, Qingyao Ai, Yujia Zhou, Yiqun Liu<br/>**ACL 2025 Findings (Long, CCF-A, THU-A)**
+
+
+
+- **Dynamic and Parametric Retrieval-Augmented Generation**<br/>**Weihang Su**, Qingyao Ai, Jingtao Zhan, Qian Dong, Yiqun Liu<br/>**SIGIR 2025 (Tutorial, CCF-A, THU-A)** [Official Website](https://sites.google.com/view/sigir2025-tutorial-dprag/home-page)
 
 
 
