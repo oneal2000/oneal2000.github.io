@@ -42,6 +42,7 @@ If you are an undergraduate interested in my research areas and aim to publish h
 
 # Selected Awards
 
+- ICLR Notable Reviewer Award
 - **China Association for Science and Technology’s Young Talents Project, Ph.D. Program (中国科协青年人才托举工程)** 
 - **National Scholarship (国家奖学金)**, Dept. CST, Tsinghua University, 2024
 - **SIGIR 2024 Best Paper Award**
