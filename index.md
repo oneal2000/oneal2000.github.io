@@ -64,6 +64,14 @@ The titles of my first-author papers are in bold (excluding co-first where the r
 
 ## **Paper Under Submission**
 
+#### 
+
+- **Efficient Parametric Knowledge Injection On-the-Fly for Dynamic Retrieval Augmented Generation**<br/>**Weihang Su**, Baoqing Yue, Qingyao Ai, Yichen Tang, Changyue Wang, Jiacheng Kang, Jingtao Zhan, Lin Fen, Liu Qin, Yiqun Liu<br/>(Long Paper) 
+
+
+
+
+
 - **Plug-in Parameter Generation for Test-Time Parametric Knowledge Injection**<br/>**Weihang Su**, Jiaqing Wu, Qingyao Ai, Hanwen Zhang, Jiaxin Mao, Yiqun Liu<br/>(Long Paper) 
 
 
