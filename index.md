@@ -21,6 +21,7 @@ If you are an undergraduate interested in my research areas and aim to publish h
 
 🎉 Our **SIGIR 2025 tutorial** on [**Dynamic and Parametric RAG**](https://sites.google.com/view/sigir2025-tutorial-dprag/home-page)  has been accepted!  Join us in 📍 **Padua** on **July 13** to explore the next generation of Retrieval-Augmented Generation! More information at: https://sites.google.com/view/sigir2025-tutorial-dprag/home-page
 
+- Our Paper DecKER, has been accepted at ACL 2025! Congratulations to Changyue!
 - My first-authored [Tutorial](https://sites.google.com/view/sigir2025-tutorial-dprag/home-page) on RAG has been accepted at SIGIR 2025! 
 - Our Paper RbFT has been accepted at SIGIR 2025! Congratulations to Yiteng!
 - My first-authored Long Paper JuDGE has been accepted at SIGIR 2025! 
@@ -64,7 +65,7 @@ The titles of my first-author papers are in bold (excluding co-first where the r
 
 ## **Paper Under Submission**
 
-#### 
+
 
 - **Efficient Parametric Knowledge Injection On-the-Fly for Dynamic Retrieval Augmented Generation**<br/>**Weihang Su**, Baoqing Yue, Qingyao Ai, Yichen Tang, Changyue Wang, Jiacheng Kang, Jingtao Zhan, Lin Fen, Liu Qin, Yiqun Liu<br/>(Long Paper) 
 
