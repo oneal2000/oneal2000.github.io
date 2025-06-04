@@ -71,8 +71,6 @@ The titles of my first-author papers are in bold (excluding co-first where the r
 
 
 
-
-
 - **Plug-in Parameter Generation for Test-Time Parametric Knowledge Injection**<br/>**Weihang Su**, Jiaqing Wu, Qingyao Ai, Hanwen Zhang, Jiaxin Mao, Yiqun Liu<br/>(Long Paper) 
 
 
@@ -81,9 +79,13 @@ The titles of my first-author papers are in bold (excluding co-first where the r
 
   
 
-- Knowledge Editing through Chain-of-Thought<br/>Changyue Wang, **Weihang Su**, Qingyao Ai, Yiqun Liu<br/>(Long Paper) [Paper](https://arxiv.org/abs/2412.17727) [Code](https://github.com/bebr2/EditCoT) 
+- Joint Evaluation of Answer and Reasoning Consistency for Hallucination Detection in Large Reasoning Models<br/>Changyue Wang, **Weihang Su**, Qingyao Ai, Yiqun Liu<br/>(Long Paper) [Code](https://github.com/bebr2/RACE) 
 
   
+
+- Knowledge Editing through Chain-of-Thought<br/>Changyue Wang, **Weihang Su**, Qingyao Ai, Yiqun Liu<br/>(Long Paper) [Paper](https://arxiv.org/abs/2412.17727) [Code](https://github.com/bebr2/EditCoT) 
+
+
 
 - Equity vs. Equality: Optimizing Ranking Fairness for Tailored Provider Needs<br/>Yiteng Tu, **Weihang Su**, Shuguang Han, Yiqun LIU, Min Zhang, Shaoping Ma, Qingyao Ai<br/>(Long Paper) 
 
@@ -93,7 +95,7 @@ The titles of my first-author papers are in bold (excluding co-first where the r
 
 
 
-- Decoupling Reasoning and Knowledge Injection for In-Context Knowledge Editing<br/>Changyue Wang, **Weihang Su**, Qingyao Ai, Yujia Zhou, Yiqun Liu<br/>**ACL 2025 Findings (Long, CCF-A, THU-A)**
+- Decoupling Reasoning and Knowledge Injection for In-Context Knowledge Editing<br/>Changyue Wang, **Weihang Su**, Qingyao Ai, Yujia Zhou, Yiqun Liu<br/>**ACL 2025 Findings (Long, CCF-A, THU-A)** [Paper](https://arxiv.org/pdf/2506.00536) [Code](https://github.com/bebr2/DecKER) 
 
 
 
