@@ -11,7 +11,7 @@ My research focuses on leveraging AI technology (LLMs) to better meet users' inf
 
 I am currently exploring an interesting direction: **Parametric Retrieval-Augmented Generation (Parametric RAG, [Paper](https://arxiv.org/abs/2501.15915) [Code](https://github.com/oneal2000/PRAG/tree/main) )**. We propose a new RAG paradigm that directly injects external knowledge into the parameters of large language models (LLMs) rather than relying on traditional in-context knowledge injection that appends retrieved documents to the LLM's input. By parameterizing documents and integrating them into the model during the inference stage, Parametric RAG improves the overall performance of the RAG system and online efficiency while maintaining flexibility. 
 
-I am also passionate about mentoring undergraduate students in research. I've collaborated with undergraduate students like Changyue Wang, Yichen Tang, Anzhe Xie, Baoqing Yue, and Junxi Yan, co-authoring high-quality papers at top-tier conferences and journals such as ACL, SIGIR, EMNLP, TOIS, SIGIR-AP, etc. 
+I am also passionate about mentoring undergraduate students in research. I've collaborated with undergraduate students like Changyue Wang, Yichen Tang, Anzhe Xie, Baoqing Yue, Jiaqing Wu, and Junxi Yan, co-authoring high-quality papers at top-tier conferences and journals such as ACL, SIGIR, EMNLP, TOIS, SIGIR-AP, etc. 
 
 If you are an undergraduate interested in my research areas and aim to publish high-quality papers, you can apply for an internship with the THUIR group through official channels or contact me (WeChat ID: rdfzswh) directly to embark on meaningful research together!
 
