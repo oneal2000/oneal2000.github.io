@@ -45,7 +45,7 @@ If you are an undergraduate interested in my research areas and aim to publish h
 
 - ICLR Notable Reviewer
 - **China Association for Science and Technology’s Young Talents Project, Ph.D. Program (中国科协青年人才托举工程)** 
-- **National Scholarship (国家奖学金)**, Dept. CST, Tsinghua University, 2024
+- **National Scholarship (国家奖学金)**, Top 4 in the Department of CST, Tsinghua University, 2024
 - **SIGIR 2024 Best Paper Award**
 - ACL 2024 **Oral**
 - Winner of the Language and Intelligence Challenge (LIC) Contest (4 winners in the world. Ranked 0.3% among all teams). 
@@ -79,9 +79,13 @@ The titles of my first-author papers are in bold (excluding co-first where the r
 
   
 
-- Joint Evaluation of Answer and Reasoning Consistency for Hallucination Detection in Large Reasoning Models<br/>Changyue Wang, **Weihang Su**, Qingyao Ai, Yiqun Liu<br/>(Long Paper) [Code](https://github.com/bebr2/RACE) 
+- Joint Evaluation of Answer and Reasoning Consistency for Hallucination Detection in Large Reasoning Models<br/>Changyue Wang, **Weihang Su**, Qingyao Ai, Yiqun Liu<br/>(Long Paper) [Paper](https://arxiv.org/abs/2506.04832)  [Code](https://github.com/bebr2/RACE) 
 
   
+
+- Augmenting Multi-Agent Communication with State Delta Trajectory<br/>Yichen Tang, **Weihang Su**, Yujia Zhou, Yiqun Liu, Min Zhang, Shaoping Ma, Qingyao Ai<br/>(Long Paper) [Code](https://github.com/LittleDinoC/StateDelta) 
+
+
 
 - Knowledge Editing through Chain-of-Thought<br/>Changyue Wang, **Weihang Su**, Qingyao Ai, Yiqun Liu<br/>(Long Paper) [Paper](https://arxiv.org/abs/2412.17727) [Code](https://github.com/bebr2/EditCoT) 
 
@@ -99,7 +103,7 @@ The titles of my first-author papers are in bold (excluding co-first where the r
 
 
 
-- **Dynamic and Parametric Retrieval-Augmented Generation**<br/>**Weihang Su**, Qingyao Ai, Jingtao Zhan, Qian Dong, Yiqun Liu<br/>**SIGIR 2025 (Tutorial, CCF-A, THU-A)** [Official Website](https://sites.google.com/view/sigir2025-tutorial-dprag/home-page)
+- **Dynamic and Parametric Retrieval-Augmented Generation**<br/>**Weihang Su**, Qingyao Ai, Jingtao Zhan, Qian Dong, Yiqun Liu<br/>**SIGIR 2025 (Tutorial, CCF-A, THU-A)** [Official Website](https://sites.google.com/view/sigir2025-tutorial-dprag/home-page) [Tutorial Proposal Paper](https://arxiv.org/abs/2506.06704)
 
 
 
@@ -169,13 +173,11 @@ The titles of my first-author papers are in bold (excluding co-first where the r
 
  
 
-## **Year 2023**
+## **Before 2024**
 
 - CaseEncoder: A Knowledge-enhanced Pre-trained Model for Legal Case Encoding. <br/>Yixiao Ma, Yueyue Wu, **Weihang Su**, Qingyao Ai, Yiqun Liu. <br/>The 2023 Conference on Empirical Methods in Natural Language Processing <br/>**EMNLP 2023 Main (Long Paper, CCF-B, THU-A)**
 
  
-
-## **Year 2022**
 
 - **THUIR2 at NTCIR-16 Session Search (SS) Task**<br/>**Weihang Su**, Xiangsheng Li, Yiqun Liu, Min Zhang, Shaoping Ma<br/>NII Testbeds and Community for Information access Research Project <br/>NTCIR 2022
 
