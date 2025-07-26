@@ -21,12 +21,12 @@ If you are an undergraduate interested in my research areas and aim to publish h
 
 🎉 Our **SIGIR 2025 tutorial** on [**Dynamic and Parametric RAG**](https://sites.google.com/view/sigir2025-tutorial-dprag/home-page)  has been accepted!  Join us in 📍 **Padua** on **July 13** to explore the next generation of Retrieval-Augmented Generation! More information at: https://sites.google.com/view/sigir2025-tutorial-dprag/home-page
 
-- Our Paper DecKER, has been accepted at ACL 2025! Congratulations to Changyue!
+- Our Paper [DecKER](https://aclanthology.org/2025.findings-acl.1260/), has been accepted at ACL 2025! Congratulations to Changyue!
 - My first-authored [Tutorial](https://sites.google.com/view/sigir2025-tutorial-dprag/home-page) on RAG has been accepted at SIGIR 2025! 
-- Our Paper RbFT has been accepted at SIGIR 2025! Congratulations to Yiteng!
-- My first-authored Long Paper JuDGE has been accepted at SIGIR 2025! 
-- My first-authored Long Paper Parametric RAG has been accepted at SIGIR 2025! 
-- My first-authored Long Paper Caseformer has been accepted at TOIS 2025! 
+- Our Paper [RbFT](https://dl.acm.org/doi/abs/10.1145/3726302.3730078) has been accepted at SIGIR 2025! Congratulations to Yiteng!
+- My first-authored Long Paper [JuDGE](https://dl.acm.org/doi/abs/10.1145/3726302.3730295) has been accepted at SIGIR 2025! 
+- My first-authored Long Paper [Parametric RAG](https://dl.acm.org/doi/abs/10.1145/3726302.3729957) has been accepted at SIGIR 2025! 
+- My first-authored Long Paper [Caseformer](https://dl.acm.org/doi/abs/10.1145/3735127) has been accepted at TOIS 2025! 
 - My first-authored Long Paper [DRAD](https://dl.acm.org/doi/10.1145/3673791.3698403) has been accepted at SIGIR-AP 2024! 
 - My first-authored Long Paper [STARD](https://aclanthology.org/2024.findings-emnlp.625/) has been accepted at EMNLP 2024! 
 - **Our paper “Scaling Laws for Dense Retrieval” received the SIGIR Best Paper Award!**
