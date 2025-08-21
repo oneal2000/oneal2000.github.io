@@ -19,9 +19,12 @@ If you are an undergraduate interested in my research areas and aim to publish h
 
 # News
 
-🎉 Our **SIGIR 2025 tutorial** on [**Dynamic and Parametric RAG**](https://sites.google.com/view/sigir2025-tutorial-dprag/home-page)  has been accepted!  Join us in 📍 **Padua** on **July 13** to explore the next generation of Retrieval-Augmented Generation! More information at: https://sites.google.com/view/sigir2025-tutorial-dprag/home-page
 
-- Our Paper [DecKER](https://aclanthology.org/2025.findings-acl.1260/), has been accepted at ACL 2025! Congratulations to Changyue!
+
+- Our Paper [EditCot](https://arxiv.org/abs/2412.17727) has been accepted at EMNLP 2025 Main Conference! After a long journey, it’s finally accepted. Congratulations to Changyue!
+- Our Paper [SDE](https://arxiv.org/abs/2506.19209) has been accepted at EMNLP 2025 Main Conference! Congratulations to Yichen!
+- Our **SIGIR 2025 tutorial** on [**Dynamic and Parametric RAG**](https://sites.google.com/view/sigir2025-tutorial-dprag/home-page)  has been accepted! More information at: https://sites.google.com/view/sigir2025-tutorial-dprag/home-page
+- Our Paper [DecKER](https://aclanthology.org/2025.findings-acl.1260/), has been accepted at Findings of ACL 2025! Congratulations to Changyue!
 - My first-authored [Tutorial](https://sites.google.com/view/sigir2025-tutorial-dprag/home-page) on RAG has been accepted at SIGIR 2025! 
 - Our Paper [RbFT](https://dl.acm.org/doi/abs/10.1145/3726302.3730078) has been accepted at SIGIR 2025! Congratulations to Yiteng!
 - My first-authored Long Paper [JuDGE](https://dl.acm.org/doi/abs/10.1145/3726302.3730295) has been accepted at SIGIR 2025! 
@@ -47,7 +50,7 @@ If you are an undergraduate interested in my research areas and aim to publish h
 - **China Association for Science and Technology’s Young Talents Project, Ph.D. Program (中国科协青年人才托举工程)** 
 - **National Scholarship (国家奖学金)**, Top 4 in the Department of CST, Tsinghua University, 2024
 - **SIGIR 2024 Best Paper Award**
-- ACL 2024 **Oral**
+- **ACL 2024 Oral**
 - Winner of the Language and Intelligence Challenge (LIC) Contest (4 winners in the world. Ranked 0.3% among all teams). 
 - Beijing Outstanding Undergraduate (2022)
 
@@ -67,14 +70,6 @@ The titles of my first-author papers are in bold (excluding co-first where the r
 
 
 
-- **Efficient Parametric Knowledge Injection On-the-Fly for Dynamic Retrieval Augmented Generation**<br/>**Weihang Su**, Baoqing Yue, Qingyao Ai, Yichen Tang, Changyue Wang, Jiacheng Kang, Jingtao Zhan, Lin Fen, Liu Qin, Yiqun Liu<br/>(Long Paper) 
-
-
-
-- **Plug-in Parameter Generation for Test-Time Parametric Knowledge Injection**<br/>**Weihang Su**, Jiaqing Wu, Qingyao Ai, Hanwen Zhang, Jiaxin Mao, Yiqun Liu<br/>(Long Paper) 
-
-
-
 - **Benchmarking Computer Science Survey Generation**<br/>**Weihang Su**, Anzhe Xie, Qingyao Ai, Jianming Long, Jiaxin Mao, Yiqun Liu<br/>(Long Paper) [Code and Dataset](https://github.com/oneal2000/SurGE) 
 
   
@@ -83,19 +78,19 @@ The titles of my first-author papers are in bold (excluding co-first where the r
 
   
 
-- Augmenting Multi-Agent Communication with State Delta Trajectory<br/>Yichen Tang, **Weihang Su**, Yujia Zhou, Yiqun Liu, Min Zhang, Shaoping Ma, Qingyao Ai<br/>(Long Paper) [Code](https://github.com/LittleDinoC/StateDelta) 
-
-
-
-- Knowledge Editing through Chain-of-Thought<br/>Changyue Wang, **Weihang Su**, Qingyao Ai, Yiqun Liu<br/>(Long Paper) [Paper](https://arxiv.org/abs/2412.17727) [Code](https://github.com/bebr2/EditCoT) 
-
-
-
 - Equity vs. Equality: Optimizing Ranking Fairness for Tailored Provider Needs<br/>Yiteng Tu, **Weihang Su**, Shuguang Han, Yiqun LIU, Min Zhang, Shaoping Ma, Qingyao Ai<br/>(Long Paper) 
 
   
 
 ## Year 2025
+
+
+
+- Augmenting Multi-Agent Communication with State Delta Trajectory<br/>Yichen Tang, **Weihang Su**, Yujia Zhou, Yiqun Liu, Min Zhang, Shaoping Ma, Qingyao Ai<br/>**EMNLP 2025 Main (Long, CCF-B, THU-A)** [Paper](https://arxiv.org/abs/2506.19209) [Code](https://github.com/LittleDinoC/StateDelta) 
+
+
+
+- Knowledge Editing through Chain-of-Thought<br/>Changyue Wang, **Weihang Su**, Qingyao Ai, Yiqun Liu<br/>**EMNLP 2025 Main (Long, CCF-B, THU-A)** [Paper](https://arxiv.org/abs/2412.17727) [Code](https://github.com/bebr2/EditCoT) 
 
 
 
