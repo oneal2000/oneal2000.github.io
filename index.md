@@ -93,7 +93,7 @@ The titles of my first-author papers are in bold (excluding co-first where the r
 
   
 
-- An Automatic and Cost-Efficient Peer-Review Framework for Language Generation Evaluation<br/>Junjie Chen, **Weihang Su**, Zhumin Chu, Haitao Li, Qinyao Ai, Yiqun Liu, Min Zhang, Shaoping Ma<br/>**AAAI 2026 Main Oral (Long Paper, CCF-A, THU-A)** <br/>[Paper](https://arxiv.org/abs/2506.04832)  [Code](https://github.com/bebr2/RACE) 
+- An Automatic and Cost-Efficient Peer-Review Framework for Language Generation Evaluation<br/>Junjie Chen, **Weihang Su**, Zhumin Chu, Haitao Li, Qinyao Ai, Yiqun Liu, Min Zhang, Shaoping Ma<br/>**AAAI 2026 Main (Long Paper, CCF-A, THU-A)** <br/>[Paper](https://arxiv.org/abs/2506.04832)  [Code](https://github.com/bebr2/RACE) 
 
   
 
