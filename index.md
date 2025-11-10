@@ -19,7 +19,7 @@ If you are an undergraduate interested in my research areas and aim to publish h
 
 # News
 
-- Our **SIGIR-AP 2025 tutorial** on Dynamic and Parametric RAG has been accepted! Welcome to Join us! More information at: [This Webpage](https://www.researchgate.net/publication/396210825_SIGIR-AP_2025_Tutorial_Proposal_Dynamic_and_Parametric_Retrieval-Augmented_Generation) and [SIGIR-AP 2025 Official Website](https://www.sigir-ap.org/sigir-ap-2025/tutorial/index.html).
+- Our **SIGIR-AP 2025 tutorial** on **Dynamic and Parametric RAG** has been accepted! Welcome to join us in Xi'an, China, on December 7th! More information at: [This Webpage](https://www.researchgate.net/publication/396210825_SIGIR-AP_2025_Tutorial_Proposal_Dynamic_and_Parametric_Retrieval-Augmented_Generation) and [SIGIR-AP 2025 Official Website](https://www.sigir-ap.org/sigir-ap-2025/tutorial/index.html).
 
 
 - Our Paper [AutoPRE](https://arxiv.org/abs/2410.12265) has been accepted at AAAI 2026 Main Conference! After a long journey since June 2024, it’s finally accepted. Congratulations to Junjie!
