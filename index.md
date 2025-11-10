@@ -19,8 +19,11 @@ If you are an undergraduate interested in my research areas and aim to publish h
 
 # News
 
+- Our **SIGIR-AP 2025 tutorial** on Dynamic and Parametric RAG has been accepted! Welcome to Join us! More information at: [This Webpage](https://www.researchgate.net/publication/396210825_SIGIR-AP_2025_Tutorial_Proposal_Dynamic_and_Parametric_Retrieval-Augmented_Generation) and [SIGIR-AP 2025 Official Website](https://www.sigir-ap.org/sigir-ap-2025/tutorial/index.html).
 
 
+- Our Paper [AutoPRE](https://arxiv.org/abs/2410.12265) has been accepted at AAAI 2026 Main Conference! After a long journey since June 2024, it’s finally accepted. Congratulations to Junjie!
+- Our Paper [RACE](https://arxiv.org/abs/2506.04832)  **has been selected for an Oral presentation at AAAI 2026**! Congratulations to Changyue!
 - Our Paper [EditCot](https://arxiv.org/abs/2412.17727) has been accepted at EMNLP 2025 Main Conference! After a long journey, it’s finally accepted. Congratulations to Changyue!
 - Our Paper [SDE](https://arxiv.org/abs/2506.19209) has been accepted at EMNLP 2025 Main Conference! Congratulations to Yichen!
 - Our **SIGIR 2025 tutorial** on [**Dynamic and Parametric RAG**](https://sites.google.com/view/sigir2025-tutorial-dprag/home-page)  has been accepted! More information at: https://sites.google.com/view/sigir2025-tutorial-dprag/home-page
@@ -70,21 +73,29 @@ The titles of my first-author papers are in bold (excluding co-first where the r
 
 
 
-- **Benchmarking Computer Science Survey Generation**<br/>**Weihang Su**, Anzhe Xie, Qingyao Ai, Jianming Long, Jiaxin Mao, Yiqun Liu<br/>(Long Paper) [Code and Dataset](https://github.com/oneal2000/SurGE) 
+- **SurGE: A Benchmark and Evaluation Framework for Scientific Survey Generation**<br/>**Weihang Su**, Anzhe Xie, Qingyao Ai, Jianming Long, Jiaxin Mao, Ziyi Ye, Yiqun Liu<br/>(Long Paper) [Paper](https://arxiv.org/abs/2508.15658) [Code and Dataset](https://github.com/oneal2000/SurGE) 
 
-  
 
-- Joint Evaluation of Answer and Reasoning Consistency for Hallucination Detection in Large Reasoning Models<br/>Changyue Wang, **Weihang Su**, Qingyao Ai, Yiqun Liu<br/>(Long Paper) [Paper](https://arxiv.org/abs/2506.04832)  [Code](https://github.com/bebr2/RACE) 
 
-  
 
-- Equity vs. Equality: Optimizing Ranking Fairness for Tailored Provider Needs<br/>Yiteng Tu, **Weihang Su**, Shuguang Han, Yiqun LIU, Min Zhang, Shaoping Ma, Qingyao Ai<br/>(Long Paper) 
 
-  
+- **Towards Unification of Hallucination Detection and Fact Verification for Large Language Models**<br/>**Weihang Su**, Jianming Long, Changyue Wang, Shiyu Lin, Jingyan Xu, Ziyi Ye, Qingyao Ai, Yiqun Liu<br/>(Long Paper)  [Code and Dataset](https://github.com/oneal2000/UniFact/) 
+
+
+
+
 
 ## Year 2025
 
 
+
+- Joint Evaluation of Answer and Reasoning Consistency for Hallucination Detection in Large Reasoning Models<br/>Changyue Wang, **Weihang Su**, Qingyao Ai, Yiqun Liu<br/> **AAAI 2026 Main Oral (Long Paper, CCF-A, THU-A)** <br/>[Paper](https://arxiv.org/abs/2506.04832)  [Code](https://github.com/bebr2/RACE) 
+
+  
+
+- An Automatic and Cost-Efficient Peer-Review Framework for Language Generation Evaluation<br/>Junjie Chen, **Weihang Su**, Zhumin Chu, Haitao Li, Qinyao Ai, Yiqun Liu, Min Zhang, Shaoping Ma<br/>**AAAI 2026 Main Oral (Long Paper, CCF-A, THU-A)** <br/>[Paper](https://arxiv.org/abs/2506.04832)  [Code](https://github.com/bebr2/RACE) 
+
+  
 
 - Augmenting Multi-Agent Communication with State Delta Trajectory<br/>Yichen Tang, **Weihang Su**, Yujia Zhou, Yiqun Liu, Min Zhang, Shaoping Ma, Qingyao Ai<br/>**EMNLP 2025 Main (Long, CCF-B, THU-A)** [Paper](https://arxiv.org/abs/2506.19209) [Code](https://github.com/LittleDinoC/StateDelta) 
 
