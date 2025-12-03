@@ -24,7 +24,7 @@ If you are an undergraduate interested in my research areas and aim to publish h
 
 - Our Paper [AutoPRE](https://arxiv.org/abs/2410.12265) has been accepted at AAAI 2026 Main Conference! After a long journey since June 2024, it’s finally accepted. Congratulations to Junjie!
 - Our Paper [RACE](https://arxiv.org/abs/2506.04832)  **has been selected for an Oral presentation at AAAI 2026**! Congratulations to Changyue!
-- Our Paper [EditCot](https://arxiv.org/abs/2412.17727) has been accepted at EMNLP 2025 Main Conference! After a long journey, it’s finally accepted. Congratulations to Changyue!
+- Our Paper [EditCot](https://arxiv.org/abs/2412.17727) has been accepted at EMNLP 2025 Main Conference! 
 - Our Paper [SDE](https://arxiv.org/abs/2506.19209) has been accepted at EMNLP 2025 Main Conference! Congratulations to Yichen!
 - Our **SIGIR 2025 tutorial** on [**Dynamic and Parametric RAG**](https://sites.google.com/view/sigir2025-tutorial-dprag/home-page)  has been accepted! More information at: https://sites.google.com/view/sigir2025-tutorial-dprag/home-page
 - Our Paper [DecKER](https://aclanthology.org/2025.findings-acl.1260/), has been accepted at Findings of ACL 2025! Congratulations to Changyue!
@@ -79,7 +79,7 @@ The titles of my first-author papers are in bold (excluding co-first where the r
 
 
 
-- **Towards Unification of Hallucination Detection and Fact Verification for Large Language Models**<br/>**Weihang Su**, Jianming Long, Changyue Wang, Shiyu Lin, Jingyan Xu, Ziyi Ye, Qingyao Ai, Yiqun Liu<br/>(Long Paper)  [Code and Dataset](https://github.com/oneal2000/UniFact/) 
+- **Towards Unification of Hallucination Detection and Fact Verification for Large Language Models**<br/>**Weihang Su**, Jianming Long, Changyue Wang, Shiyu Lin, Jingyan Xu, Ziyi Ye, Qingyao Ai, Yiqun Liu<br/>(Long Paper) [Paper](https://arxiv.org/abs/2512.02772) [Code and Dataset](https://github.com/oneal2000/UniFact/) 
 
 
 
@@ -121,7 +121,7 @@ The titles of my first-author papers are in bold (excluding co-first where the r
 
   
 
-- RbFT: Robust Fine-tuning for Retrieval-Augmented Generation against Retrieval Defects<br/>Yiteng Tu, **Weihang Su**, Yujia Zhou, Yiqun Liu, Qingyao Ai
+- Robust Fine-tuning for Retrieval-Augmented Generation against Retrieval Defects<br/>Yiteng Tu, **Weihang Su**, Yujia Zhou, Yiqun Liu, Qingyao Ai
   <br/>**SIGIR 2025 (Long Paper, CCF-A, THU-A)**  [Paper](https://arxiv.org/abs/2501.18365) [Code](https://github.com/StibiumT16/Robust-Fine-tuning) 
 
 
