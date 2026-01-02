@@ -1,6 +1,6 @@
 # About me
 
-Welcome to my homepage! I am Weihang Su (苏炜航), a third-year PhD student at the Department of Computer Science and Technology, Tsinghua University, under the supervision of Prof. Yiqun Liu. 
+Welcome to my homepage! I am Weihang Su (苏炜航), a fourth-year PhD student at the Department of Computer Science and Technology, Tsinghua University, under the supervision of Prof. Yiqun Liu. 
 
 My research focuses on leveraging AI technology (LLMs) to better meet users' information needs, specifically in the following areas:
 
