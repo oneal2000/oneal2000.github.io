@@ -49,6 +49,7 @@ If you are an undergraduate interested in my research areas and aim to publish h
 
 # Selected Awards
 
+- **WizardQuant Scholarship**, Top 2 in the Department of CST, Tsinghua University, 2025
 - ICLR Notable Reviewer
 - **China Association for Science and Technology’s Young Talents Project, Ph.D. Program (中国科协青年人才托举工程)** 
 - **National Scholarship (国家奖学金)**, Top 4 in the Department of CST, Tsinghua University, 2024
