@@ -17,8 +17,15 @@ If you are an undergraduate interested in my research areas and aim to publish h
 
 
 
+
+
+
+
+
+
 # News
 
+- Our Paper [GPRF](https://arxiv.org/abs/2510.25488) has been accepted at WebConf 2026 Conference! Congratulations to Yiteng!
 - Our **SIGIR-AP 2025 tutorial** on **Dynamic and Parametric RAG** has been accepted! Welcome to join us in Xi'an, China, on December 7th! More information at: [This Webpage](https://www.researchgate.net/publication/396210825_SIGIR-AP_2025_Tutorial_Proposal_Dynamic_and_Parametric_Retrieval-Augmented_Generation) and [SIGIR-AP 2025 Official Website](https://www.sigir-ap.org/sigir-ap-2025/tutorial/index.html).
 
 
@@ -26,13 +33,13 @@ If you are an undergraduate interested in my research areas and aim to publish h
 - Our Paper [RACE](https://arxiv.org/abs/2506.04832)  **has been selected for an Oral presentation at AAAI 2026**! Congratulations to Changyue!
 - Our Paper [EditCot](https://arxiv.org/abs/2412.17727) has been accepted at EMNLP 2025 Main Conference! 
 - Our Paper [SDE](https://arxiv.org/abs/2506.19209) has been accepted at EMNLP 2025 Main Conference! Congratulations to Yichen!
+- My first-authored Long Paper [Caseformer](https://dl.acm.org/doi/abs/10.1145/3735127) has been accepted at TOIS 2025! 
 - Our **SIGIR 2025 tutorial** on [**Dynamic and Parametric RAG**](https://sites.google.com/view/sigir2025-tutorial-dprag/home-page)  has been accepted! More information at: https://sites.google.com/view/sigir2025-tutorial-dprag/home-page
 - Our Paper [DecKER](https://aclanthology.org/2025.findings-acl.1260/), has been accepted at Findings of ACL 2025! Congratulations to Changyue!
 - My first-authored [Tutorial](https://sites.google.com/view/sigir2025-tutorial-dprag/home-page) on RAG has been accepted at SIGIR 2025! 
 - Our Paper [RbFT](https://dl.acm.org/doi/abs/10.1145/3726302.3730078) has been accepted at SIGIR 2025! Congratulations to Yiteng!
 - My first-authored Long Paper [JuDGE](https://dl.acm.org/doi/abs/10.1145/3726302.3730295) has been accepted at SIGIR 2025! 
 - My first-authored Long Paper [Parametric RAG](https://dl.acm.org/doi/abs/10.1145/3726302.3729957) has been accepted at SIGIR 2025! 
-- My first-authored Long Paper [Caseformer](https://dl.acm.org/doi/abs/10.1145/3735127) has been accepted at TOIS 2025! 
 - My first-authored Long Paper [DRAD](https://dl.acm.org/doi/10.1145/3673791.3698403) has been accepted at SIGIR-AP 2024! 
 - My first-authored Long Paper [STARD](https://aclanthology.org/2024.findings-emnlp.625/) has been accepted at EMNLP 2024! 
 - **Our paper “Scaling Laws for Dense Retrieval” received the SIGIR Best Paper Award!**
@@ -42,6 +49,10 @@ If you are an undergraduate interested in my research areas and aim to publish h
 - My first-authored Long Paper [Wikiformer](https://ojs.aaai.org/index.php/AAAI/article/view/29869) has been accepted at AAAI 2024!
 - Our team participated in COLIEE 2023 and won the championship! Here is the link to our Technical Report: https://arxiv.org/abs/2304.12650
 - We participated in the WSDM Cup 2023 and won silver medals in two tasks! Here is the news report: https://www.cs.tsinghua.edu.cn/info/1088/5286.htm
+
+
+
+
 
 
 
@@ -86,9 +97,11 @@ The titles of my first-author papers are in bold (excluding co-first where the r
 
 
 
-## Year 2025
+## Year 2026
 
 
+
+- Generalized Pseudo-Relevance Feedback<br/>Yiteng Tu, **Weihang Su**, Yujia Zhou, Yiqun Liu, Fen Lin, Qin Liu, Qingyao Ai<br/> **Webconf 2026 (Long Paper, CCF-A, THU-A)** <br/>[Paper](https://arxiv.org/abs/2510.25488)  
 
 - Joint Evaluation of Answer and Reasoning Consistency for Hallucination Detection in Large Reasoning Models<br/>Changyue Wang, **Weihang Su**, Qingyao Ai, Yiqun Liu<br/> **AAAI 2026 Main Oral (Long Paper, CCF-A, THU-A)** <br/>[Paper](https://arxiv.org/abs/2506.04832)  [Code](https://github.com/bebr2/RACE) 
 
@@ -96,7 +109,12 @@ The titles of my first-author papers are in bold (excluding co-first where the r
 
 - An Automatic and Cost-Efficient Peer-Review Framework for Language Generation Evaluation<br/>Junjie Chen, **Weihang Su**, Zhumin Chu, Haitao Li, Qinyao Ai, Yiqun Liu, Min Zhang, Shaoping Ma<br/>**AAAI 2026 Main (Long Paper, CCF-A, THU-A)** <br/>[Paper](https://arxiv.org/abs/2506.04832)  [Code](https://github.com/bebr2/RACE) 
 
-  
+
+
+
+## Year 2025
+
+
 
 - Augmenting Multi-Agent Communication with State Delta Trajectory<br/>Yichen Tang, **Weihang Su**, Yujia Zhou, Yiqun Liu, Min Zhang, Shaoping Ma, Qingyao Ai<br/>**EMNLP 2025 Main (Long, CCF-B, THU-A)** [Paper](https://arxiv.org/abs/2506.19209) [Code](https://github.com/LittleDinoC/StateDelta) 
 
