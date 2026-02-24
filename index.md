@@ -1,23 +1,20 @@
 # About me
 
-Welcome to my homepage! I am Weihang Su (苏炜航), a fourth-year PhD student at the Department of Computer Science and Technology, Tsinghua University, under the supervision of Prof. Yiqun Liu. 
+Welcome to my homepage! I am Weihang Su (苏炜航), a fourth-year PhD student at the Department of Computer Science and Technology, Tsinghua University, where I am fortunate to be advised by Prof. Yiqun Liu and Assoc. Prof. Qingyao Ai.
 
-My research focuses on leveraging AI technology (LLMs) to better meet users' information needs, specifically in the following areas:
+My research focuses on leveraging Large Language Models (LLMs) to better fulfill users' complex information needs. My current research interests include:
 
-- Retrieval Augmented Generation
-- Knowledge Injection and Editing for LLMs
+- Retrieval-Augmented Generation (RAG) & AI Agents 
 - Hallucination Detection and Mitigation for LLMs
 - AI for Legal Applications
 
-I am currently exploring an interesting direction: **Parametric Retrieval-Augmented Generation (Parametric RAG, [Paper](https://arxiv.org/abs/2501.15915) [Code](https://github.com/oneal2000/PRAG/tree/main) )**. We propose a new RAG paradigm that directly injects external knowledge into the parameters of large language models (LLMs) rather than relying on traditional in-context knowledge injection that appends retrieved documents to the LLM's input. By parameterizing documents and integrating them into the model during the inference stage, Parametric RAG improves the overall performance of the RAG system and online efficiency while maintaining flexibility. 
+My research at the intersection of Information Retrieval and Large Language Models has achieved both significant academic recognition and broad impact. Recent highlights of my works include receiving the **SIGIR 2024 Best Paper Award** 🏆, and my work on Parametric RAG is currently the **most cited paper at SIGIR 2025** 📈 (as of Feb 2026, Google Scholar). Beyond publications, I actively serve the research community as a PC member or reviewer for top-tier venues (e.g., NeurIPS, ICML, ICLR, ACL, SIGIR) and have been invited to deliver tutorials at flagship conferences (e.g., SIGIR 2025, SIGIR-AP 2025) on Dynamic and Parametric RAG, serving as the lead presenter.
 
-I am also passionate about mentoring undergraduate students in research. I've collaborated with undergraduate students like Changyue Wang, Yichen Tang, Anzhe Xie, Baoqing Yue, Jiaqing Wu, and Junxi Yan, co-authoring high-quality papers at top-tier conferences and journals such as ACL, SIGIR, EMNLP, TOIS, SIGIR-AP, etc. 
+My academic work is also closely connected to industrial practice. Since October 2025, I have been working as a research intern at ByteDance (TikTok), focusing on the development of advanced AI Agents. By exploring the automated construction of specialized agents and Agent Skills for agentic systems, I aim to bridge the gap between cutting-edge LLM research and scalable, real-world applications.
 
-If you are an undergraduate interested in my research areas and aim to publish high-quality papers, you can apply for an internship with the THUIR group through official channels or contact me (WeChat ID: rdfzswh) directly to embark on meaningful research together!
+I am also highly passionate about mentoring undergraduate students. I have had the privilege of collaborating with talented undergraduates, successfully co-authoring high-impact papers at premier conferences and journals (e.g., ACL, SIGIR, EMNLP, TOIS, AAAI, The Web Conference).
 
-
-
-
+If you are an undergraduate student interested in my research areas and driven to publish high-quality work, you are more than welcome to apply for an internship with the THUIR group through official channels, or contact me directly (WeChat ID: rdfzswh) to embark on meaningful research together!
 
 
 
@@ -86,6 +83,8 @@ The titles of my first-author papers are in bold (excluding co-first where the r
 
 
 - **SurGE: A Benchmark and Evaluation Framework for Scientific Survey Generation**<br/>**Weihang Su**, Anzhe Xie, Qingyao Ai, Jianming Long, Jiaxin Mao, Ziyi Ye, Yiqun Liu<br/>(Long Paper) [Paper](https://arxiv.org/abs/2508.15658) [Code and Dataset](https://github.com/oneal2000/SurGE) 
+
+
 
 
 
