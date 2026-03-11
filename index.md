@@ -1,22 +1,27 @@
 # About me
 
-Welcome to my homepage! I am Weihang Su (苏炜航), a fourth-year PhD student at the Department of Computer Science and Technology, Tsinghua University, where I am fortunate to be advised by Prof. Yiqun Liu and Assoc. Prof. Qingyao Ai.
+Welcome to my homepage! I am Weihang Su (苏炜航), a fourth-year PhD student in the Department of Computer Science and Technology at Tsinghua University, where I am fortunate to be advised by Prof. Yiqun Liu and Assoc. Prof. Qingyao Ai.
 
-My research focuses on leveraging Large Language Models (LLMs) to better fulfill users' complex information needs. My current research interests include:
+During the early stage of my PhD, I explored a broad range of research problems at the intersection of Information Retrieval and Large Language Models, publishing 10+ first-author papers and contributing substantially as a second author to 10+ additional works across the following areas:
 
-- Retrieval-Augmented Generation (RAG) & AI Agents 
+- Retrieval-Augmented Generation (RAG) & AI Agents
 - Hallucination Detection and Mitigation for LLMs
+- Knowledge Injection and Editing for LLMs
 - AI for Legal Applications
 
-My research at the intersection of Information Retrieval and Large Language Models has achieved both significant academic recognition and broad impact. Recent highlights of my works include receiving the **SIGIR 2024 Best Paper Award** 🏆, and my work on Parametric RAG is currently the **most cited paper at SIGIR 2025** 📈 (as of Feb 2026, Google Scholar). Beyond publications, I actively serve the research community as a PC member or reviewer for top-tier venues (e.g., NeurIPS, ICML, ICLR, ACL, SIGIR) and have been invited to deliver tutorials at flagship conferences (e.g., SIGIR 2025, SIGIR-AP 2025) on Dynamic and Parametric RAG, serving as the lead presenter.
+Since 2025, my research has gradually converged on a unified long-term agenda: **How language models and agents acquire, use, and update external knowledge and capabilities.**
 
-My academic work is also closely connected to industrial practice. Since October 2025, I have been working as a research intern at ByteDance (TikTok), focusing on the development of advanced AI Agents. By exploring the automated construction of specialized agents and Agent Skills for agentic systems, I aim to bridge the gap between cutting-edge LLM research and scalable, real-world applications.
+Within this agenda, I view **retrieval** as a foundational mechanism because it enables LLMs and agents to access scalable, potentially unbounded external knowledge and capabilities beyond what can be stored in their parameters or accommodated within a fixed context window. My current work, therefore, focuses on retrieval-augmented systems, agent skills, procedural capabilities, and knowledge-intensive LLM applications.
 
-I am also highly passionate about mentoring undergraduate students. I have had the privilege of collaborating with talented undergraduates, successfully co-authoring high-impact papers at premier conferences and journals (e.g., ACL, SIGIR, EMNLP, TOIS, AAAI, The Web Conference).
+---
 
-If you are an undergraduate student interested in my research areas and driven to publish high-quality work, you are more than welcome to apply for an internship with the THUIR group through official channels, or contact me directly (WeChat ID: rdfzswh) to embark on meaningful research together!
+To date, my research at the intersection of Information Retrieval and Large Language Models has received both academic recognition and broad impact. Recent highlights include the **SIGIR 2024 Best Paper Award** 🏆, and my work on **Parametric RAG** is currently the **most-cited paper at SIGIR 2025** 📈 (as of March 2026, according to Google Scholar). Beyond publications, I actively serve the research community as a PC member or reviewer for top-tier venues, including NeurIPS, ICML, ICLR, ACL, and SIGIR. **I have also delivered tutorials on Dynamic and Parametric RAG at flagship conferences, including SIGIR 2025 and SIGIR-AP 2025, as the lead presenter.**
 
+My academic research is also closely connected to industrial practice. Since October 2025, I have been working as a research intern at ByteDance (TikTok), focusing on developing advanced AI Agents. In particular, I study how specialized agents and agent skills can be automatically constructed, organized, and deployed in agentic systems, with the goal of bridging cutting-edge LLM research and scalable real-world applications.
 
+I am also highly passionate about mentoring undergraduate students. I have had the privilege of collaborating with many talented undergraduates, and together we have co-authored papers at premier conferences and journals such as ACL, SIGIR, EMNLP, TOIS, AAAI, and The Web Conference.
+
+If you are an undergraduate student interested in my research areas and driven to pursue high-quality research, you are very welcome to apply for an internship with the THUIR group through official channels, or contact me directly via WeChat (rdfzswh) to explore potential collaboration.
 
 
 
