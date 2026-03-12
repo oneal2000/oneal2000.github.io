@@ -2,12 +2,7 @@
 
 Welcome to my homepage! I am Weihang Su (苏炜航), a fourth-year PhD student in the Department of Computer Science and Technology at Tsinghua University, where I am fortunate to be advised by Prof. Yiqun Liu and Assoc. Prof. Qingyao Ai.
 
-During the early stage of my PhD, I explored a broad range of research problems at the intersection of Information Retrieval and Large Language Models, publishing 10+ first-author papers and contributing substantially as a second author to 10+ additional works across the following areas:
-
-- Retrieval-Augmented Generation (RAG) & AI Agents
-- Hallucination Detection and Mitigation for LLMs
-- Knowledge Injection and Editing for LLMs
-- AI for Legal Applications
+During the early stage of my PhD, I explored a broad range of research problems at the intersection of Information Retrieval and Large Language Models. My earlier work spans retrieval-augmented generation, hallucination detection and mitigation, knowledge editing, and legal AI. 
 
 Since 2025, my research has gradually converged on a unified long-term agenda: **How language models and agents acquire, use, and update external knowledge and capabilities.**
 
@@ -15,7 +10,7 @@ Within this agenda, I view **retrieval** as a foundational mechanism because it 
 
 ---
 
-To date, my research at the intersection of Information Retrieval and Large Language Models has received both academic recognition and broad impact. Recent highlights include the **SIGIR 2024 Best Paper Award** 🏆, and my work on **Parametric RAG** is currently the **most-cited paper at SIGIR 2025** 📈 (as of March 2026, according to Google Scholar). Beyond publications, I actively serve the research community as a PC member or reviewer for top-tier venues, including NeurIPS, ICML, ICLR, ACL, and SIGIR. **I have also delivered tutorials on Dynamic and Parametric RAG at flagship conferences, including SIGIR 2025 and SIGIR-AP 2025, as the lead presenter.**
+To date, my research at the intersection of Information Retrieval and Large Language Models has received both academic recognition and broad impact. Recent highlights include the **SIGIR 2024 Best Paper Award**, and my work on **Parametric RAG** is currently the **most-cited paper at SIGIR 2025** (as of March 2026, according to Google Scholar). Beyond publications, I actively serve the research community as a PC member or reviewer for top-tier venues, including NeurIPS, ICML, ICLR, ACL, and SIGIR. **I have also delivered tutorials on Dynamic and Parametric RAG at flagship conferences, including SIGIR 2025 and SIGIR-AP 2025, as the lead presenter.**
 
 My academic research is also closely connected to industrial practice. Since October 2025, I have been working as a research intern at ByteDance (TikTok), focusing on developing advanced AI Agents. In particular, I study how specialized agents and agent skills can be automatically constructed, organized, and deployed in agentic systems, with the goal of bridging cutting-edge LLM research and scalable real-world applications.
 
