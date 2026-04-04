@@ -22,6 +22,12 @@ If you are an undergraduate student interested in my research areas and driven t
 
 # News
 
+
+
+- My first-authored Long Paper [SurGE](https://arxiv.org/abs/2508.15658) has been accepted at SIGIR 2026! 
+- My first-authored Short Paper [Judge-R1]() has been accepted at SIGIR 2026! 
+- Our Perspective Paper [Analytical Search](https://arxiv.org/abs/2602.11581) has been accepted at SIGIR 2026 Conference! Congratulations to Yiteng!
+- Our Paper [Equity vs. Equality](https://arxiv.org/abs/2602.00495) has been accepted at SIGIR 2026 Conference! Congratulations to Yiteng!
 - Our Paper [GPRF](https://arxiv.org/abs/2510.25488) has been accepted at WebConf 2026 Conference! Congratulations to Yiteng!
 - Our **SIGIR-AP 2025 tutorial** on **Dynamic and Parametric RAG** has been accepted! Welcome to join us in Xi'an, China, on December 7th! More information at: [This Webpage](https://www.researchgate.net/publication/396210825_SIGIR-AP_2025_Tutorial_Proposal_Dynamic_and_Parametric_Retrieval-Augmented_Generation) and [SIGIR-AP 2025 Official Website](https://www.sigir-ap.org/sigir-ap-2025/tutorial/index.html).
 
@@ -82,17 +88,7 @@ The titles of my first-author papers are in bold (excluding co-first where the r
 
 
 
-- **SurGE: A Benchmark and Evaluation Framework for Scientific Survey Generation**<br/>**Weihang Su**, Anzhe Xie, Qingyao Ai, Jianming Long, Jiaxin Mao, Ziyi Ye, Yiqun Liu<br/>(Long Paper) [Paper](https://arxiv.org/abs/2508.15658) [Code and Dataset](https://github.com/oneal2000/SurGE) 
-
-
-
-
-
-
-
 - **Towards Unification of Hallucination Detection and Fact Verification for Large Language Models**<br/>**Weihang Su**, Jianming Long, Changyue Wang, Shiyu Lin, Jingyan Xu, Ziyi Ye, Qingyao Ai, Yiqun Liu<br/>(Long Paper) [Paper](https://arxiv.org/abs/2512.02772) [Code and Dataset](https://github.com/oneal2000/UniFact/) 
-
-
 
 
 
@@ -100,7 +96,25 @@ The titles of my first-author papers are in bold (excluding co-first where the r
 
 
 
-- Generalized Pseudo-Relevance Feedback<br/>Yiteng Tu, **Weihang Su**, Yujia Zhou, Yiqun Liu, Fen Lin, Qin Liu, Qingyao Ai<br/> **Webconf 2026 (Long Paper, CCF-A, THU-A)** <br/>[Paper](https://arxiv.org/abs/2510.25488)  
+- **SurGE: A Benchmark and Evaluation Framework for Scientific Survey Generation**<br/>**Weihang Su**, Anzhe Xie, Qingyao Ai, Jianming Long, Xuanyi Chen, Jiaxin Mao, Ziyi Ye, Yiqun Liu<br/>**SIGIR 2026 (Long Paper, CCF-A, THU-A)** [Paper](https://arxiv.org/abs/2508.15658) [Code and Dataset](https://github.com/oneal2000/SurGE) 
+
+
+
+- **Enhancing Judgment Document Generation via Agentic Legal Information Collection and Rubric-Guided Optimization** <br/>**Weihang Su**, Xuanyi Chen, Yueyue Wu, Qingyao Ai, Yiqun Liu<br/>**SIGIR 2026 (Short Paper, CCF-A, THU-A)**
+
+
+
+- Equity vs. Equality: Optimizing Ranking Fairness for Tailored Provider Needs<br/>Yiteng Tu, **Weihang Su**, Shuguang Han, Yiqun LIU, Qingyao Ai<br/>**SIGIR 2026 (Long Paper, CCF-A, THU-A)** [Paper](https://arxiv.org/abs/2602.00495) 
+
+
+
+- Analytical Search<br/>Yiteng Tu, **Weihang Su**, Shuguang Han, Yiqun LIU, Qingyao Ai<br/>**SIGIR 2026 (Long Paper, CCF-A, THU-A)** [Paper](https://arxiv.org/abs/2602.11581) 
+
+
+
+- Generalized Pseudo-Relevance Feedback<br/>Yiteng Tu, Shuo Miao, **Weihang Su**, Yiqun Liu, Qingyao Ai<br/> **Webconf 2026 (Long Paper, CCF-A, THU-A)** [Paper](https://arxiv.org/abs/2510.25488)  
+
+  
 
 - Joint Evaluation of Answer and Reasoning Consistency for Hallucination Detection in Large Reasoning Models<br/>Changyue Wang, **Weihang Su**, Qingyao Ai, Yiqun Liu<br/> **AAAI 2026 Main Oral (Long Paper, CCF-A, THU-A)** <br/>[Paper](https://arxiv.org/abs/2506.04832)  [Code](https://github.com/bebr2/RACE) 
 
