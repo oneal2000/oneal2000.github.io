@@ -28,6 +28,8 @@ If you are an undergraduate student interested in my research areas and driven t
 - My first-authored Short Paper [Judge-R1]() has been accepted at SIGIR 2026! 
 - Our Perspective Paper [Analytical Search](https://arxiv.org/abs/2602.11581) has been accepted at SIGIR 2026 Conference! Congratulations to Yiteng!
 - Our Paper [Equity vs. Equality](https://arxiv.org/abs/2602.00495) has been accepted at SIGIR 2026 Conference! Congratulations to Yiteng!
+- Our Paper [SimCourt](https://arxiv.org/abs/2508.17322) has been accepted at ACL 2026 Findings! Congratulations to Kaiyuan!
+- Our Paper [TwinVoice](https://arxiv.org/abs/2510.25536) has been accepted at ACL 2026 Findings! Congratulations to Bangde!
 - Our Paper [GPRF](https://arxiv.org/abs/2510.25488) has been accepted at WebConf 2026 Conference! Congratulations to Yiteng!
 - Our **SIGIR-AP 2025 tutorial** on **Dynamic and Parametric RAG** has been accepted! Welcome to join us in Xi'an, China, on December 7th! More information at: [This Webpage](https://www.researchgate.net/publication/396210825_SIGIR-AP_2025_Tutorial_Proposal_Dynamic_and_Parametric_Retrieval-Augmented_Generation) and [SIGIR-AP 2025 Official Website](https://www.sigir-ap.org/sigir-ap-2025/tutorial/index.html).
 
@@ -109,6 +111,14 @@ The titles of my first-author papers are in bold (excluding co-first where the r
 
 
 - Analytical Search<br/>Yiteng Tu, **Weihang Su**, Shuguang Han, Yiqun LIU, Qingyao Ai<br/>**SIGIR 2026 (Long Paper, CCF-A, THU-A)** [Paper](https://arxiv.org/abs/2602.11581) 
+
+
+
+- Chinese Court Simulation with LLM-Based Agents System<br/>Kaiyuan Zhang, Jiaqi Li, Haitao Li, **Weihang Su**, Yiqun LIU, Shaokun Zou, Cheng Luo, Yujia Zhou, Yueyue Wu, Qingyao Ai<br/>**ACL 2026 (Findings, CCF-A, THU-A)** [Paper](https://arxiv.org/abs/2508.17322) 
+
+
+
+- TwinVoice: A Multi-dimensional Benchmark Towards Digital Twins via LLM Persona Simulation<br/>Bangde Du, Minghao Guo, Songming He, Ziyi Ye, Xi Zhu, **Weihang Su**, Shuqi Zhu, Yujia Zhou, Yongfeng Zhang, Qingyao Ai, Yiqun LIU<br/>**ACL 2026 (Findings, CCF-A, THU-A)** [Paper](https://arxiv.org/abs/2510.25536) 
 
 
 
