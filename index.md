@@ -10,13 +10,35 @@ Within this agenda, I view **retrieval** as a foundational mechanism because it 
 
 ---
 
-To date, my research at the intersection of Information Retrieval and Large Language Models has received both academic recognition and broad impact. Recent highlights include the **SIGIR 2024 Best Paper Award**, and my work on **Parametric RAG** is currently the **most-cited paper at SIGIR 2025** (as of March 2026, according to Google Scholar). Beyond publications, I actively serve the research community as a PC member or reviewer for top-tier venues, including NeurIPS, ICML, ICLR, ACL, and SIGIR. **I have also delivered tutorials on Dynamic and Parametric RAG at flagship conferences, including SIGIR 2025 and SIGIR-AP 2025, as the lead presenter.**
+To date, my research at the intersection of Information Retrieval and Large Language Models has received both academic recognition and broad impact. Recent highlights include the **SIGIR 2024 Best Paper Award**, and my work on **Parametric RAG** is currently the **most-cited paper at SIGIR 2025** (as of April 2026, according to Google Scholar). Beyond publications, I actively serve the research community as a PC member & reviewer for top-tier venues, including NeurIPS, ICML, ICLR, ACL, and SIGIR. **I have also delivered tutorials on Dynamic and Parametric RAG at flagship conferences, including SIGIR 2025 and SIGIR-AP 2025, as the lead presenter.**
 
 My academic research is also closely connected to industrial practice. Since October 2025, I have been working as a research intern at ByteDance (TikTok), focusing on developing advanced AI Agents. In particular, I study how specialized agents and agent skills can be automatically constructed, organized, and deployed in agentic systems, with the goal of bridging cutting-edge LLM research and scalable real-world applications.
 
 I am also highly passionate about mentoring undergraduate students. I have had the privilege of collaborating with many talented undergraduates, and together we have co-authored papers at premier conferences and journals such as ACL, SIGIR, EMNLP, TOIS, AAAI, and The Web Conference.
 
 If you are an undergraduate student interested in my research areas and driven to pursue high-quality research, you are very welcome to apply for an internship with the THUIR group through official channels, or contact me directly via WeChat (rdfzswh) to explore potential collaboration.
+
+
+
+
+
+# Selected Awards
+
+- **China Association for Science and Technology’s Young Talents Project, Ph.D. Program (中国科协青年人才托举工程)** 
+- **National Scholarship (国家奖学金)**, Top 4 in the Department of CST, Tsinghua University, 2024
+- **WizardQuant Scholarship**, Top 2 in the Department of CST, Tsinghua University, 2025
+- **SIGIR 2025 Most Influential Papers** (Parametric RAG)
+- **SIGIR 2024 Best Paper Award** (Scaling Laws for Dense Retrieval)
+- **ACL 2024 Oral**
+- ICLR 2025 Notable Reviewer
+- Winner of the Language and Intelligence Challenge (LIC) Contest (4 winners in the world. Ranked 0.3% among all teams). 
+- Beijing Outstanding Undergraduate (2022)
+
+
+
+
+
+
 
 
 
@@ -58,21 +80,6 @@ If you are an undergraduate student interested in my research areas and driven t
 
 
 
-
-
-
-
-
-# Selected Awards
-
-- **WizardQuant Scholarship**, Top 2 in the Department of CST, Tsinghua University, 2025
-- ICLR Notable Reviewer
-- **China Association for Science and Technology’s Young Talents Project, Ph.D. Program (中国科协青年人才托举工程)** 
-- **National Scholarship (国家奖学金)**, Top 4 in the Department of CST, Tsinghua University, 2024
-- **SIGIR 2024 Best Paper Award**
-- **ACL 2024 Oral**
-- Winner of the Language and Intelligence Challenge (LIC) Contest (4 winners in the world. Ranked 0.3% among all teams). 
-- Beijing Outstanding Undergraduate (2022)
 
 
 
