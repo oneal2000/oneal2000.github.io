@@ -29,7 +29,7 @@ If you are an undergraduate student interested in my research areas and driven t
 - **WizardQuant Scholarship**, Top 2 in the Department of CST, Tsinghua University, 2025
 - **SIGIR 2025 Most Influential Papers** (Parametric RAG)
 - **SIGIR 2024 Best Paper Award** (Scaling Laws for Dense Retrieval)
-- **ACL 2024 Oral**
+- **ACL 2024 Oral** (DRAGIN)
 - ICLR 2025 Notable Reviewer
 - Winner of the Language and Intelligence Challenge (LIC) Contest (4 winners in the world. Ranked 0.3% among all teams). 
 - Beijing Outstanding Undergraduate (2022)
