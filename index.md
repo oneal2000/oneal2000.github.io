@@ -10,7 +10,7 @@ Within this agenda, I view **retrieval** as a foundational mechanism because it 
 
 ---
 
-To date, my research at the intersection of Information Retrieval and Large Language Models has received both academic recognition and broad impact. Recent highlights include the **SIGIR 2024 Best Paper Award**, and my work on **Parametric RAG** is currently the **most-cited paper at SIGIR 2025** (as of April 2026, according to Google Scholar). Beyond publications, I actively serve the research community as a PC member & reviewer for top-tier venues, including NeurIPS, ICML, ICLR, ACL, and SIGIR. **I have also delivered tutorials on Dynamic and Parametric RAG at flagship conferences, including SIGIR 2025 and SIGIR-AP 2025, as the lead presenter.**
+To date, my research at the intersection of Information Retrieval and Large Language Models has received both academic recognition and broad impact. Recent highlights include the **SIGIR 2024 Best Paper Award**, and my work on **Parametric RAG** is currently the **most-cited paper at SIGIR 2025** (as of April 2026, according to Google Scholar) and has been selected as one of the **SIGIR 2025 Most Influential Papers**. Beyond publications, I actively serve the research community as a PC member & reviewer for top-tier venues, including NeurIPS, ICML, ICLR, ACL, and SIGIR. **I have also delivered tutorials on Dynamic and Parametric RAG at flagship conferences, including SIGIR 2025 and SIGIR-AP 2025, as the lead presenter.**
 
 My academic research is also closely connected to industrial practice. Since October 2025, I have been working as a research intern at ByteDance (TikTok), focusing on developing advanced AI Agents. In particular, I study how specialized agents and agent skills can be automatically constructed, organized, and deployed in agentic systems, with the goal of bridging cutting-edge LLM research and scalable real-world applications.
 
@@ -36,15 +36,7 @@ If you are an undergraduate student interested in my research areas and driven t
 
 
 
-
-
-
-
-
-
 # News
-
-
 
 - My first-authored Long Paper [SurGE](https://arxiv.org/abs/2508.15658) has been accepted at SIGIR 2026! 
 - My first-authored Short Paper [Judge-R1]() has been accepted at SIGIR 2026! 
@@ -97,7 +89,23 @@ The titles of my first-author papers are in bold (excluding co-first where the r
 
 
 
+- **Skill Retrieval Augmented Agents**<br/>**Weihang Su**, Jianming Long, Qingyao Ai, Yichen Tang, Yiteng Tu, Changyue Wang, Yiqun Liu<br/>(Long Paper) [Paper](https://arxiv.org/abs/2604.24594) [Code and Dataset](https://github.com/oneal2000/SR-Agents) 
+
+
+
+- **Reinterpreting Gradients as Retrievable Knowledge for Large Language Models**<br/>**Weihang Su**, Jiacheng Kang, Jingyan Xu, Qingyao Ai, Hanwen Zhang, Bangde Du, Xinyuan Cao, Yiqun LIU<br/>(Long Paper) 
+
+
+
 - **Towards Unification of Hallucination Detection and Fact Verification for Large Language Models**<br/>**Weihang Su**, Jianming Long, Changyue Wang, Shiyu Lin, Jingyan Xu, Ziyi Ye, Qingyao Ai, Yiqun Liu<br/>(Long Paper) [Paper](https://arxiv.org/abs/2512.02772) [Code and Dataset](https://github.com/oneal2000/UniFact/) 
+
+
+
+- **Decoupling Knowledge and Task Subspaces for Composable Parametric Retrieval Augmented Generation**<br/>**Weihang Su**, Hanwen Zhang, Qingyao Ai, Yiqun Liu<br/>(Long Paper) [Paper](https://arxiv.org/abs/2604.26768)
+
+
+
+
 
 
 
@@ -109,7 +117,7 @@ The titles of my first-author papers are in bold (excluding co-first where the r
 
 
 
-- **Enhancing Judgment Document Generation via Agentic Legal Information Collection and Rubric-Guided Optimization** <br/>**Weihang Su**, Xuanyi Chen, Yueyue Wu, Qingyao Ai, Yiqun Liu<br/>**SIGIR 2026 (Short Paper, CCF-A, THU-A)**
+- **Enhancing Judgment Document Generation via Agentic Legal Information Collection and Rubric-Guided Optimization** <br/>**Weihang Su**, Xuanyi Chen, Yueyue Wu, Qingyao Ai, Yiqun Liu<br/>**SIGIR 2026 (Short Paper, CCF-A, THU-A)** [Paper](https://arxiv.org/abs/2605.02011) [Code](https://github.com/oneal2000/Judge-R1) 
 
 
 
