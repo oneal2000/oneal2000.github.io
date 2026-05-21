@@ -1,5 +1,19 @@
 # About me
 
+
+
+<p align="center">
+  <strong style="font-size: 1.15em;">
+    I study how foundation-model systems acquire, retrieve, update, and compose knowledge and capabilities beyond static parameters and finite context windows.
+  </strong>
+  <br/><br/>
+  <em>
+    Put simply: What comes after static pretrained models?
+  </em>
+</p>
+
+
+
 Welcome to my homepage! I am Weihang Su (苏炜航), a fourth-year PhD student in the Department of Computer Science and Technology at Tsinghua University, where I am fortunate to be advised by Prof. Yiqun Liu and Assoc. Prof. Qingyao Ai.
 
 During the early stage of my PhD, I explored a broad range of research problems at the intersection of Information Retrieval and Large Language Models. My earlier work spans retrieval-augmented generation, hallucination detection and mitigation, knowledge editing, and legal AI. 
