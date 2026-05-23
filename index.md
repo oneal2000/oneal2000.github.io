@@ -1,8 +1,6 @@
 # About me
 
 
-
-
 Welcome to my homepage! I am Weihang Su (苏炜航), a fourth-year PhD student in the Department of Computer Science and Technology at Tsinghua University, where I am fortunate to be advised by Prof. Yiqun Liu and Assoc. Prof. Qingyao Ai.
 
 During the early stage of my PhD, I explored a broad range of research problems at the intersection of Information Retrieval and Large Language Models. My earlier work spans retrieval-augmented generation, hallucination detection and mitigation, knowledge editing, and legal AI. 
@@ -20,6 +18,22 @@ My academic research is also closely connected to industrial practice. Since Oct
 I am also highly passionate about mentoring undergraduate students. I have had the privilege of collaborating with many talented undergraduates, and together we have co-authored papers at premier conferences and journals such as ACL, SIGIR, EMNLP, TOIS, AAAI, and The Web Conference.
 
 If you are an undergraduate student interested in my research areas and driven to pursue high-quality research, you are very welcome to apply for an internship with the THUIR group through official channels, or contact me directly via WeChat (rdfzswh) to explore potential collaboration.
+
+----
+
+
+
+
+
+## A Resource You May Find Useful
+
+Allow me to briefly introduce a resource that we believe may be useful to the community: **SRA-Bench**, a benchmark for evaluating **Skill Retrieval Augmentation (SRA)** in agentic AI systems.
+
+SRA-Bench studies how LLM agents retrieve, select, and incorporate reusable procedural skills for solving capability-intensive tasks. Unlike conventional RAG benchmarks that mainly focus on factual knowledge retrieval, SRA-Bench evaluates whether agents can identify externalized capabilities, decide when to load them, and use them effectively during task execution.
+
+If you are interested in agentic AI, skill learning, or retrieval-augmented agents, we would greatly appreciate it if you could take a look at our paper. **If you are short on time, the [project website](https://sr-agents.github.io/) provides a concise overview. Stars and citations are also very welcome and sincerely appreciated.**
+
+[Paper](https://arxiv.org/abs/2604.24594) / [GitHub](https://github.com/oneal2000/SR-Agents) / [Project Website](https://sr-agents.github.io/)
 
 
 
@@ -41,6 +55,7 @@ If you are an undergraduate student interested in my research areas and driven t
 
 # News
 
+- Our resource Paper [MemoryBench](https://arxiv.org/abs/2510.17281) has been selected for **Spotlight** at ICML 2026! 
 - My first-authored Long Paper [SurGE](https://arxiv.org/abs/2508.15658) has been accepted at SIGIR 2026! 
 - My first-authored Short Paper [Judge-R1]() has been accepted at SIGIR 2026! 
 - Our Perspective Paper [Analytical Search](https://arxiv.org/abs/2602.11581) has been accepted at SIGIR 2026 Conference! Congratulations to Yiteng!
@@ -92,7 +107,7 @@ The titles of my first-author papers are in bold (excluding co-first where the r
 
 
 
-- **Skill Retrieval Augmented Agents**<br/>**Weihang Su**, Jianming Long, Qingyao Ai, Yichen Tang, Yiteng Tu, Changyue Wang, Yiqun Liu<br/>(Long Paper) [Paper](https://arxiv.org/abs/2604.24594) [Code and Dataset](https://github.com/oneal2000/SR-Agents) 
+- **Skill Retrieval Augmented Agents**<br/>**Weihang Su**, Jianming Long, Qingyao Ai, Qiaozhi He, Yichen Tang, Yiteng Tu, Changyue Wang, Yinbo Wang, Yiqun Liu<br/>(Long Paper) [Paper](https://arxiv.org/abs/2604.24594) [Code and Dataset](https://github.com/oneal2000/SR-Agents) [Project Website](https://sr-agents.github.io/)
 
 
 
@@ -116,7 +131,11 @@ The titles of my first-author papers are in bold (excluding co-first where the r
 
 
 
-- **SurGE: A Benchmark and Evaluation Framework for Scientific Survey Generation**<br/>**Weihang Su**, Anzhe Xie, Qingyao Ai, Jianming Long, Xuanyi Chen, Jiaxin Mao, Ziyi Ye, Yiqun Liu<br/>**SIGIR 2026 (Long Paper, CCF-A, THU-A)** [Paper](https://arxiv.org/abs/2508.15658) [Code and Dataset](https://github.com/oneal2000/SurGE) 
+- MemoryBench: A Benchmark for Memory and Continual Learning in LLM Systems<br/>Qingyao Ai, Yichen Tang, Changyue Wang, Jianming Long, **Weihang Su**, Yiqun Liu<br/>**ICML 2026 (Spotlight, Long Paper, CCF-A, THU-A)** [Paper](https://arxiv.org/abs/2508.15658) [Code and Dataset](https://github.com/THUIR/MemoryBench) 
+
+
+
+- **SurGE: A Benchmark and Evaluation Framework for Scientific Survey Generation**<br/>**Weihang Su**, Anzhe Xie, Qingyao Ai, Jianming Long, Xuanyi Chen, Jiaxin Mao, Ziyi Ye, Yiqun Liu<br/>**SIGIR 2026 (Long Paper, CCF-A, THU-A)**  [Paper](https://arxiv.org/abs/2510.17281) [Code and Dataset](https://github.com/oneal2000/SurGE) 
 
 
 
