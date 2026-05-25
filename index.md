@@ -55,7 +55,7 @@ If you are interested in agentic AI, skill learning, or retrieval-augmented agen
 
 # News
 
-- Our resource Paper [MemoryBench](https://arxiv.org/abs/2510.17281) has been selected for **Spotlight** at ICML 2026! 
+- Our Paper [MemoryBench](https://arxiv.org/abs/2510.17281) has been selected for **Spotlight** at ICML 2026! 
 - My first-authored Long Paper [SurGE](https://arxiv.org/abs/2508.15658) has been accepted at SIGIR 2026! 
 - My first-authored Short Paper [Judge-R1]() has been accepted at SIGIR 2026! 
 - Our Perspective Paper [Analytical Search](https://arxiv.org/abs/2602.11581) has been accepted at SIGIR 2026 Conference! Congratulations to Yiteng!
@@ -107,7 +107,7 @@ The titles of my first-author papers are in bold (excluding co-first where the r
 
 
 
-- **Skill Retrieval Augmented Agents**<br/>**Weihang Su**, Jianming Long, Qingyao Ai, Qiaozhi He, Yichen Tang, Yiteng Tu, Changyue Wang, Yinbo Wang, Yiqun Liu<br/>(Long Paper) [Paper](https://arxiv.org/abs/2604.24594) [Code and Dataset](https://github.com/oneal2000/SR-Agents) [Project Website](https://sr-agents.github.io/)
+- **Skill Retrieval Augmentation for Agentic AI**<br/>**Weihang Su**, Jianming Long, Qingyao Ai, Qiaozhi He, Yichen Tang, Yiteng Tu, Changyue Wang, Yinbo Wang, Yiqun Liu<br/>(Long Paper) [Paper](https://arxiv.org/abs/2604.24594) | [Code and Dataset](https://github.com/oneal2000/SR-Agents) | [Project Website](https://sr-agents.github.io/)<br/>**RAG retrieves knowledge. SRA retrieves capabilities.**
 
 
 
