@@ -111,7 +111,7 @@ The titles of my first-author papers are in bold (excluding co-first where the r
 
 
 
-- **Reinterpreting Gradients as Retrievable Knowledge for Large Language Models**<br/>**Weihang Su**, Jiacheng Kang, Jingyan Xu, Qingyao Ai, Hanwen Zhang, Bangde Du, Xinyuan Cao, Yiqun LIU<br/>(Long Paper) 
+- **Retrievable Gradients: Continual Post-Training Without Cumulative Weight Drift**<br/>**Weihang Su**, Jiacheng Kang, Jingyan Xu, Jianming Long, Qingyao Ai, Hanwen Zhang, Bangde Du, Xinyuan Cao, Min Zhang, Yiqun Liu<br/>(Long Paper) 
 
 
 
