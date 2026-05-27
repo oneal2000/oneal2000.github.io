@@ -1,7 +1,7 @@
 # About me
 
 
-Welcome to my homepage! I am Weihang Su (苏炜航), a fourth-year PhD student in the Department of Computer Science and Technology at Tsinghua University, where I am fortunate to be advised by Prof. Yiqun Liu and Assoc. Prof. Qingyao Ai.
+Welcome to my homepage! I am Weihang Su (苏炜航), a fourth-year PhD student in the Department of Computer Science and Technology at Tsinghua University, where I am fortunate to be advised by Prof. Yiqun Liu and Assoc. Prof. Qingyao Ai. I expect to receive my Ph.D. in June 2027 and am open to research positions in academia and industry, especially in LLMs, information retrieval, and agentic AI.
 
 During the early stage of my PhD, I explored a broad range of research problems at the intersection of Information Retrieval and Large Language Models. My earlier work spans retrieval-augmented generation, hallucination detection and mitigation, knowledge editing, and legal AI. 
 
