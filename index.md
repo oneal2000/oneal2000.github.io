@@ -107,13 +107,13 @@ The titles of my first-author papers are in bold (excluding co-first where the r
 
 
 
-- **Skill Retrieval Augmentation for Agentic AI**<br/>**Weihang Su**, Jianming Long, Qingyao Ai, Qiaozhi He, Yichen Tang, Yiteng Tu, Changyue Wang, Yinbo Wang, Yiqun Liu<br/>(Long Paper) [Paper](https://arxiv.org/abs/2604.24594) | [Code and Dataset](https://github.com/oneal2000/SR-Agents) | [Project Website](https://sr-agents.github.io/)<br/>**RAG retrieves knowledge. SRA retrieves capabilities.**
+- **Skill Retrieval Augmentation for Agentic AI**<br/>**Weihang Su**, Jianming Long, Qingyao Ai, Qiaozhi He, Yichen Tang, Yiteng Tu, Changyue Wang, Yinbo Wang, Yiqun Liu<br/>(Long Paper) [Paper](https://arxiv.org/abs/2604.24594)  [Code and Dataset](https://github.com/oneal2000/SR-Agents)  [Project Website](https://sr-agents.github.io/)<br/>**RAG retrieves knowledge. SRA retrieves capabilities.**
 
 
 
-- **Retrievable Gradients: Continual Post-Training Without Cumulative Weight Drift**<br/>**Weihang Su**, Jiacheng Kang, Jingyan Xu, Jianming Long, Qingyao Ai, Hanwen Zhang, Bangde Du, Xinyuan Cao, Min Zhang, Yiqun Liu<br/>(Long Paper) 
+- **Retrievable Gradients: Continual Post-Training Without Cumulative Weight Drift**<br/>**Weihang Su**, Jiacheng Kang, Jingyan Xu, Jianming Long, Qingyao Ai, Hanwen Zhang, Bangde Du, Xinyuan Cao, Min Zhang, Yiqun Liu<br/>(Long Paper) [Paper](https://arxiv.org/abs/2606.15734) | [Code](https://github.com/oneal2000/ReGrad/)
 
-
+  
 
 - **Towards Unification of Hallucination Detection and Fact Verification for Large Language Models**<br/>**Weihang Su**, Jianming Long, Changyue Wang, Shiyu Lin, Jingyan Xu, Ziyi Ye, Qingyao Ai, Yiqun Liu<br/>(Long Paper) [Paper](https://arxiv.org/abs/2512.02772) [Code and Dataset](https://github.com/oneal2000/UniFact/) 
 
