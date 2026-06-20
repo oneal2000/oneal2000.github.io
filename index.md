@@ -11,7 +11,7 @@ Within this agenda, I view **retrieval** as a foundational mechanism because it 
 
 ---
 
-To date, my research at the intersection of Information Retrieval and Large Language Models has received both academic recognition and broad impact. Recent highlights include the **SIGIR 2024 Best Paper Award**, and my work on **Parametric RAG** is currently the **most-cited paper at SIGIR 2025** (as of April 2026, according to Google Scholar) and has been selected as one of the **SIGIR 2025 Most Influential Papers**. Beyond publications, I actively serve the research community as a PC member & reviewer for top-tier venues, including NeurIPS, ICML, ICLR, ACL, and SIGIR. **I have also delivered tutorials on Dynamic and Parametric RAG at flagship conferences, including SIGIR 2025 and SIGIR-AP 2025, as the lead presenter.**
+To date, my research at the intersection of Information Retrieval and Large Language Models has received both academic recognition and broad impact. Recent highlights include the **SIGIR 2024 Best Paper Award**, and my work on **Parametric RAG** is currently the **most-cited paper at SIGIR 2025** (as of June 2026, according to Google Scholar) and has been selected as one of the **SIGIR 2025 Most Influential Papers**. Beyond publications, I actively serve the research community as a PC member & reviewer for top-tier venues, including NeurIPS, ICML, ICLR, ACL, and SIGIR. **I have also delivered tutorials on Dynamic and Parametric RAG at flagship conferences, including SIGIR 2025 and SIGIR-AP 2025, as the lead presenter.**
 
 My academic research is also closely connected to industrial practice. Since October 2025, I have been working as a research intern at ByteDance (TikTok), focusing on developing advanced AI Agents. In particular, I study how specialized agents and agent skills can be automatically constructed, organized, and deployed in agentic systems, with the goal of bridging cutting-edge LLM research and scalable real-world applications.
 
@@ -107,7 +107,7 @@ The titles of my first-author papers are in bold (excluding co-first where the r
 
 
 
-- **Skill Retrieval Augmentation for Agentic AI**<br/>**Weihang Su**, Jianming Long, Qingyao Ai, Qiaozhi He, Yichen Tang, Yiteng Tu, Changyue Wang, Yinbo Wang, Yiqun Liu<br/>(Long Paper) [Paper](https://arxiv.org/abs/2604.24594)  [Code and Dataset](https://github.com/oneal2000/SR-Agents)  [Project Website](https://sr-agents.github.io/)<br/>**RAG retrieves knowledge. SRA retrieves capabilities.**
+- **Skill Retrieval Augmentation for Agentic AI**<br/>**Weihang Su**, Jianming Long, Qingyao Ai, Qiaozhi He, Yichen Tang, Yiteng Tu, Changyue Wang, Yinbo Wang, Yiqun Liu<br/>(Long Paper) [Paper](https://arxiv.org/abs/2604.24594)  [Code and Dataset](https://github.com/oneal2000/SR-Agents)  [Project Website](https://sr-agents.github.io/<br/>**RAG retrieves knowledge. SRA retrieves capabilities.**
 
 
 
