@@ -47,7 +47,8 @@ If you are interested in agentic AI, skill learning, or retrieval-augmented agen
 - **SIGIR 2025 Most Influential Papers** (Parametric RAG)
 - **SIGIR 2024 Best Paper Award** (Scaling Laws for Dense Retrieval)
 - **ACL 2024 Oral** (DRAGIN)
-- ICLR 2025 Notable Reviewer
+- ICLR 2025 Notable Reviewer & ICML 2026 Golden Reviewer
+- ICML 2026 Spotlight
 - Winner of the Language and Intelligence Challenge (LIC) Contest (4 winners in the world. Ranked 0.3% among all teams). 
 - Beijing Outstanding Undergraduate (2022)
 
@@ -107,7 +108,7 @@ The titles of my first-author papers are in bold (excluding co-first where the r
 
 
 
-- **Skill Retrieval Augmentation for Agentic AI**<br/>**Weihang Su**, Jianming Long, Qingyao Ai, Qiaozhi He, Yichen Tang, Yiteng Tu, Changyue Wang, Yinbo Wang, Yiqun Liu<br/>(Long Paper) [Paper](https://arxiv.org/abs/2604.24594)  [Code and Dataset](https://github.com/oneal2000/SR-Agents)  [Project Website](https://sr-agents.github.io/<br/>**RAG retrieves knowledge. SRA retrieves capabilities.**
+- **Skill Retrieval Augmentation for Agentic AI**<br/>**Weihang Su**, Jianming Long, Qingyao Ai, Qiaozhi He, Yichen Tang, Yiteng Tu, Changyue Wang, Yinbo Wang, Yiqun Liu<br/>(Long Paper) [Paper](https://arxiv.org/abs/2604.24594)  [Code and Dataset](https://github.com/oneal2000/SR-Agents)  [Project Website](https://sr-agents.github.io/<br/>
 
 
 
