@@ -112,7 +112,7 @@ The titles of my first-author papers are in bold (excluding co-first where the r
 
 
 
-- **Retrievable Gradients: Continual Post-Training Without Cumulative Weight Drift**<br/>**Weihang Su**, Jiacheng Kang, Jingyan Xu, Jianming Long, Qingyao Ai, Hanwen Zhang, Bangde Du, Xinyuan Cao, Min Zhang, Yiqun Liu<br/>(Long Paper) [Paper](https://arxiv.org/abs/2606.15734) | [Code](https://github.com/oneal2000/ReGrad/)
+- **Retrievable Gradients: Continual Post-Training Without Cumulative Weight Drift**<br/>**Weihang Su**, Jiacheng Kang, Jingyan Xu, Jianming Long, Qingyao Ai, Hanwen Zhang, Bangde Du, Xinyuan Cao, Min Zhang, Yiqun Liu<br/>(Long Paper) [Paper](https://arxiv.org/abs/2606.15734)  [Code](https://github.com/oneal2000/ReGrad/)
 
   
 
