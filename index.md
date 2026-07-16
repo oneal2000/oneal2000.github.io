@@ -108,7 +108,7 @@ The titles of my first-author papers are in bold (excluding co-first where the r
 
 
 
-- **Skill Retrieval Augmentation for Agentic AI**<br/>**Weihang Su**, Jianming Long, Qingyao Ai, Qiaozhi He, Yichen Tang, Yiteng Tu, Changyue Wang, Yinbo Wang, Yiqun Liu<br/>(Long Paper) [Paper](https://arxiv.org/abs/2604.24594)  [Code and Dataset](https://github.com/oneal2000/SR-Agents)  [Project Website](https://sr-agents.github.io/<br/>
+- **Skill Retrieval Augmentation for Agentic AI**<br/>**Weihang Su**, Jianming Long, Qingyao Ai, Qiaozhi He, Yichen Tang, Yiteng Tu, Changyue Wang, Yinbo Wang, Yiqun Liu<br/>(Long Paper) [Paper](https://arxiv.org/abs/2604.24594)  [Code and Dataset](https://github.com/oneal2000/SR-Agents)  [Project Website](https://sr-agents.github.io/)
 
 
 
