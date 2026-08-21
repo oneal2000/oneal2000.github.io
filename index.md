@@ -56,6 +56,10 @@ If you are interested in agentic AI, skill learning, or retrieval-augmented agen
 
 # News
 
+- My first-authored Long Paper [Retrievable Gradients](https://arxiv.org/abs/2606.15734) has been accepted at EMNLP 2026 Main Conference! Probably the most fun and creative piece of work in my PhD so far. Welcome to check it out!
+- My first-authored Long Paper [Skill Retrieval Augmentation](https://arxiv.org/abs/2604.245948) has been accepted at the Findings of EMNLP 2026! 
+- Our Long Paper [Multi-Field Tool Retrieval](https://arxiv.org/abs/2602.05366) has been accepted at EMNLP 2026 Main Conference! Congratulations to Yichen!
+- Our Long Paper [LongJudgeBench](https://arxiv.org/abs/2606.01629) has been accepted at EMNLP 2026 Main Conference! Congratulations to Junjie!
 - Our Paper [MemoryBench](https://arxiv.org/abs/2510.17281) has been selected for **Spotlight** at ICML 2026! 
 - My first-authored Long Paper [SurGE](https://arxiv.org/abs/2508.15658) has been accepted at SIGIR 2026! 
 - My first-authored Short Paper [Judge-R1]() has been accepted at SIGIR 2026! 
@@ -108,14 +112,6 @@ The titles of my first-author papers are in bold (excluding co-first where the r
 
 
 
-- **Skill Retrieval Augmentation for Agentic AI**<br/>**Weihang Su**, Jianming Long, Qingyao Ai, Qiaozhi He, Yichen Tang, Yiteng Tu, Changyue Wang, Yinbo Wang, Yiqun Liu<br/>(Long Paper) [Paper](https://arxiv.org/abs/2604.24594)  [Code and Dataset](https://github.com/oneal2000/SR-Agents)  [Project Website](https://sr-agents.github.io/)
-
-
-
-- **Retrievable Gradients: Continual Post-Training Without Cumulative Weight Drift**<br/>**Weihang Su**, Jiacheng Kang, Jingyan Xu, Jianming Long, Qingyao Ai, Hanwen Zhang, Bangde Du, Xinyuan Cao, Min Zhang, Yiqun Liu<br/>(Long Paper) [Paper](https://arxiv.org/abs/2606.15734)  [Code](https://github.com/oneal2000/ReGrad/)
-
-  
-
 - **Towards Unification of Hallucination Detection and Fact Verification for Large Language Models**<br/>**Weihang Su**, Jianming Long, Changyue Wang, Shiyu Lin, Jingyan Xu, Ziyi Ye, Qingyao Ai, Yiqun Liu<br/>(Long Paper) [Paper](https://arxiv.org/abs/2512.02772) [Code and Dataset](https://github.com/oneal2000/UniFact/) 
 
 
@@ -126,9 +122,26 @@ The titles of my first-author papers are in bold (excluding co-first where the r
 
 
 
-
-
 ## Year 2026
+
+
+
+
+- **Retrievable Gradients: Continual Post-Training Without Cumulative Weight Drift**<br/>**Weihang Su**, Jiacheng Kang, Jingyan Xu, Jianming Long, Qingyao Ai, Hanwen Zhang, Bangde Du, Xinyuan Cao, Min Zhang, Yiqun Liu<br/>**EMNLP 2026 Main (Long, CCF-B, THU-A)** [Paper](https://arxiv.org/abs/2606.15734)  [Code](https://github.com/oneal2000/ReGrad/)
+
+
+
+
+- **Skill Retrieval Augmentation for Agentic AI**<br/>**Weihang Su**, Jianming Long, Qingyao Ai, Qiaozhi He, Yichen Tang, Yiteng Tu, Changyue Wang, Yinbo Wang, Yiqun Liu<br/>**EMNLP 2026 Findings (Long, CCF-B, THU-A)** [Paper](https://arxiv.org/abs/2604.24594)  [Code and Dataset](https://github.com/oneal2000/SR-Agents)  [Project Website](https://sr-agents.github.io/)
+
+
+
+- Benchmarking LLM-as-a-Judge for Long-Form Output Evaluation **Junjie Chen**, Yuxi Dong, Haitao Li, **Weihang Su**, Yujia Zhou, Min Zhang, Yiqun Liu, Qingyao Ai **EMNLP 2026 Main (Long, CCF-B, THU-A)** [Paper](https://arxiv.org/abs/2606.01629)
+
+
+
+- Multi-Field Tool Retrieval **Yichen Tang**, **Weihang Su**, Yiqun Liu, Qingyao Ai **EMNLP 2026 Main (Long, CCF-B, THU-A)** [Paper](https://arxiv.org/abs/2602.05366)
+
 
 
 
