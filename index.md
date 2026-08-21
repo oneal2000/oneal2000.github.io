@@ -136,11 +136,11 @@ The titles of my first-author papers are in bold (excluding co-first where the r
 
 
 
-- Benchmarking LLM-as-a-Judge for Long-Form Output Evaluation **Junjie Chen**, Yuxi Dong, Haitao Li, **Weihang Su**, Yujia Zhou, Min Zhang, Yiqun Liu, Qingyao Ai **EMNLP 2026 Main (Long, CCF-B, THU-A)** [Paper](https://arxiv.org/abs/2606.01629)
+- Benchmarking LLM-as-a-Judge for Long-Form Output Evaluation<br/> Junjie Chen, Yuxi Dong, Haitao Li, **Weihang Su**, Yujia Zhou, Min Zhang, Yiqun Liu, Qingyao Ai<br/>**EMNLP 2026 Main (Long, CCF-B, THU-A)** [Paper](https://arxiv.org/abs/2606.01629)
 
 
 
-- Multi-Field Tool Retrieval **Yichen Tang**, **Weihang Su**, Yiqun Liu, Qingyao Ai **EMNLP 2026 Main (Long, CCF-B, THU-A)** [Paper](https://arxiv.org/abs/2602.05366)
+- Multi-Field Tool Retrieval<br/>Yichen Tang, **Weihang Su**, Yiqun Liu, Qingyao Ai<br/>**EMNLP 2026 Main (Long, CCF-B, THU-A)** [Paper](https://arxiv.org/abs/2602.05366)
 
 
 
